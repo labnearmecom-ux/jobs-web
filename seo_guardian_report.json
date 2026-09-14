@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-09-14T02:40:17.361303+00:00",
+  "timestamp": "2026-09-14T03:09:44.630135+00:00",
   "mode": "changed-only",
   "dry_run": false,
-  "files_scanned": 10475,
+  "files_scanned": 10517,
   "issues_found_by_check": {
-    "jobposting_schema": 150,
+    "jobposting_schema": 152,
     "ai_marker_integrity": 11,
-    "expired_job": 9,
+    "expired_job": 1,
     "sitemap_sync": 200
   },
-  "issues_auto_fixed": 83,
+  "issues_auto_fixed": 77,
   "unfixable": [
     {
       "file": "jobs/aai-apprentice-recruitment-2026-apply-online-for-graduate-diploma-apprentice-p/index.html",
@@ -876,12 +876,6 @@
       "reason": "page on disk not in any sitemap: /jobs/aiims-bhopal-group-b-non-faculty-recruitment-2026-apply-offline-for-76-pharmac/"
     },
     {
-      "file": "jobs/aiims-bhopal-junior-research-fellow-recruitment-2026-apply-online/index.html",
-      "check": "sitemap_sync",
-      "severity": "non_critical",
-      "reason": "page on disk not in any sitemap: /jobs/aiims-bhopal-junior-research-fellow-recruitment-2026-apply-online/"
-    },
-    {
       "file": "jobs/aiims-bhopal-lab-technician-iii-recruitment-2026-apply-online/index.html",
       "check": "sitemap_sync",
       "severity": "non_critical",
@@ -1732,6 +1726,12 @@
       "check": "sitemap_sync",
       "severity": "non_critical",
       "reason": "page on disk not in any sitemap: /jobs/aiims-mangalagiri-recruitment-2026-walkin-for-doctor-social-worker-posts/"
+    },
+    {
+      "file": "jobs/aiims-mangalagiri-senior-resident-recruitment-2026-apply-online-for-36-posts/index.html",
+      "check": "sitemap_sync",
+      "severity": "non_critical",
+      "reason": "page on disk not in any sitemap: /jobs/aiims-mangalagiri-senior-resident-recruitment-2026-apply-online-for-36-posts/"
     }
   ],
   "critical_unfixable": 0,
@@ -1740,5 +1740,5 @@
     "broken_links:   [ImportantCSC PDF] drive-google-com-dca2e21e",
     "build_sitemaps:   sitemap-pages.xml               119 urls [ok]"
   ],
-  "duration_sec": 41.3
+  "duration_sec": 43.7
 }
