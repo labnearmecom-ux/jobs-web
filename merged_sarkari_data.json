@@ -1,17 +1,17 @@
 {
-  "scraped_at": "2026-09-20 12:05:11",
-  "total": 296,
+  "scraped_at": "2026-09-21 12:25:24",
+  "total": 297,
   "summary": {
     "sarkariresultshine_offline_jobs_top30": 30,
     "sarkariresultshine_latest_jobs_top100": 100,
     "sarkariresult_categories": {
-      "SR_Latest_Jobs": 73,
-      "SR_Answer_Key": 19,
       "SR_Result": 25,
-      "SR_Admit_Card": 24
+      "SR_Answer_Key": 19,
+      "SR_Admit_Card": 24,
+      "SR_Latest_Jobs": 73
     },
     "sarkariresult_total": 141,
-    "upcoming_jobs": 14,
+    "upcoming_jobs": 15,
     "state_jobs_active": 0,
     "central_jobs_active": 0,
     "admissions_active": 11
@@ -23,7 +23,7 @@
     "SR_Answer_Key": 19,
     "OFFLINE_FORM": 30,
     "LATEST_JOBS NEW": 100,
-    "UPCOMING_JOBS": 14,
+    "UPCOMING_JOBS": 15,
     "ADMISSIONS": 11
   },
   "jobs": [
@@ -763,7 +763,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-up-pgt-teacher-sept26/",
-        "scrapedAt": "2026-09-20T12:05:33",
+        "scrapedAt": "2026-09-21T12:25:41",
         "pageTitle": "UPESSC UP PGT Teacher Online Form 2026 for 2607 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -772,7 +772,7 @@
         "articleSection": "2026",
         "homepageSerial": 1
       },
-      "_last_checked": "2026-09-20T06:35:33+00:00"
+      "_last_checked": "2026-09-21T06:55:41+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -1068,7 +1068,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-assistant-professor-04-2026/",
-        "scrapedAt": "2026-09-20T12:05:33",
+        "scrapedAt": "2026-09-21T12:25:42",
         "pageTitle": "UPESSC UP Assistant Professor Online Form 2026 for 1936 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -1077,7 +1077,7 @@
         "articleSection": "2026",
         "homepageSerial": 2
       },
-      "_last_checked": "2026-09-20T06:35:34+00:00"
+      "_last_checked": "2026-09-21T06:55:42+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -1203,7 +1203,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-up-primary-teacher-05-2026/",
-        "scrapedAt": "2026-09-20T12:05:34",
+        "scrapedAt": "2026-09-21T12:25:43",
         "pageTitle": "UPESSC UP Assistant Teacher Primary Online Form 2026 for 12405 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -1212,7 +1212,7 @@
         "articleSection": "2026",
         "homepageSerial": 3
       },
-      "_last_checked": "2026-09-20T06:35:34+00:00"
+      "_last_checked": "2026-09-21T06:55:43+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -1398,7 +1398,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ssc-cpo-si-capf-2026/",
-        "scrapedAt": "2026-09-20T12:05:35",
+        "scrapedAt": "2026-09-21T12:25:44",
         "pageTitle": "SSC CPO SI CAPF Online Form 2026 for 1871 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -1407,7 +1407,7 @@
         "articleSection": "2026",
         "homepageSerial": 4
       },
-      "_last_checked": "2026-09-20T06:35:35+00:00"
+      "_last_checked": "2026-09-21T06:55:44+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -1502,7 +1502,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ssc-chsl-2026-sep/",
-        "scrapedAt": "2026-09-20T12:05:35",
+        "scrapedAt": "2026-09-21T12:25:44",
         "pageTitle": "SSC 10+2 CHSL Online Form 2026 for 2536 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -1511,7 +1511,7 @@
         "articleSection": "2026",
         "homepageSerial": 5
       },
-      "_last_checked": "2026-09-20T06:35:35+00:00"
+      "_last_checked": "2026-09-21T06:55:44+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -1666,7 +1666,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ssc-junior-engineer-2026/",
-        "scrapedAt": "2026-09-20T12:05:38",
+        "scrapedAt": "2026-09-21T12:25:45",
         "pageTitle": "SSC Junior Engineer JE Online Form 2026 for 1748 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -1675,7 +1675,7 @@
         "articleSection": "2026",
         "homepageSerial": 6
       },
-      "_last_checked": "2026-09-20T06:35:38+00:00"
+      "_last_checked": "2026-09-21T06:55:45+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -1843,7 +1843,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/uksssc-group-c-scaler-sep26/",
-        "scrapedAt": "2026-09-20T12:05:39",
+        "scrapedAt": "2026-09-21T12:25:46",
         "pageTitle": "UKSSSC Group C Scaler Online Form 2026 for 200 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -1852,7 +1852,7 @@
         "articleSection": "2026",
         "homepageSerial": 7
       },
-      "_last_checked": "2026-09-20T06:35:39+00:00"
+      "_last_checked": "2026-09-21T06:55:46+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -2034,7 +2034,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mecl-non-executive-sep26/",
-        "scrapedAt": "2026-09-20T12:05:40",
+        "scrapedAt": "2026-09-21T12:25:47",
         "pageTitle": "MECL Non Executive Online Form 2026 for 122 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -2043,7 +2043,7 @@
         "articleSection": "2026",
         "homepageSerial": 8
       },
-      "_last_checked": "2026-09-20T06:35:40+00:00"
+      "_last_checked": "2026-09-21T06:55:47+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -2393,7 +2393,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/up-anganwadi-helper-june26/",
-        "scrapedAt": "2026-09-20T12:05:41",
+        "scrapedAt": "2026-09-21T12:25:47",
         "pageTitle": "UP Anganwadi Helper Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -2402,7 +2402,7 @@
         "articleSection": "2026",
         "homepageSerial": 9
       },
-      "_last_checked": "2026-09-20T06:35:41+00:00"
+      "_last_checked": "2026-09-21T06:55:47+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -2522,7 +2522,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/sbi-specialist-co-august26/",
-        "scrapedAt": "2026-09-20T12:05:42",
+        "scrapedAt": "2026-09-21T12:25:48",
         "pageTitle": "SBI SO Trade Finance Officer Online Form 2026 for 35 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -2531,7 +2531,7 @@
         "articleSection": "2026",
         "homepageSerial": 10
       },
-      "_last_checked": "2026-09-20T06:35:42+00:00"
+      "_last_checked": "2026-09-21T06:55:48+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -2694,7 +2694,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/jssc-jilcce-inter-level-july26/",
-        "scrapedAt": "2026-09-20T12:05:43",
+        "scrapedAt": "2026-09-21T12:25:49",
         "pageTitle": "JSSC JILCCE Inter Level Online Form 2026 for 326 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -2703,7 +2703,7 @@
         "articleSection": "2026",
         "homepageSerial": 11
       },
-      "_last_checked": "2026-09-20T06:35:43+00:00"
+      "_last_checked": "2026-09-21T06:55:49+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -2802,7 +2802,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-mspstet-2026/",
-        "scrapedAt": "2026-09-20T12:05:43",
+        "scrapedAt": "2026-09-21T12:25:50",
         "pageTitle": "MPESB Primary and Middle School Teachers MSPSTET Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -2811,7 +2811,7 @@
         "articleSection": "2026",
         "homepageSerial": 12
       },
-      "_last_checked": "2026-09-20T06:35:43+00:00"
+      "_last_checked": "2026-09-21T06:55:50+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -2917,7 +2917,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsssc-j-e-agriculture-august26/",
-        "scrapedAt": "2026-09-20T12:05:43",
+        "scrapedAt": "2026-09-21T12:25:50",
         "pageTitle": "UPSSSC Junior Engineer JE Agriculture Online Form 2026 for 134 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -2926,7 +2926,7 @@
         "articleSection": "2026",
         "homepageSerial": 13
       },
-      "_last_checked": "2026-09-20T06:35:43+00:00"
+      "_last_checked": "2026-09-21T06:55:50+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3132,7 +3132,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-mp-police-asi-subedar-sept2026/",
-        "scrapedAt": "2026-09-20T12:05:44",
+        "scrapedAt": "2026-09-21T12:25:51",
         "pageTitle": "MPESB MP Police ASI, Subedar Steno Online Form 2026 for 655 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3141,7 +3141,7 @@
         "articleSection": "2026",
         "homepageSerial": 14
       },
-      "_last_checked": "2026-09-20T06:35:44+00:00"
+      "_last_checked": "2026-09-21T06:55:51+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3235,7 +3235,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2027/upsc-engineering-02-2027/",
-        "scrapedAt": "2026-09-20T12:05:44",
+        "scrapedAt": "2026-09-21T12:25:52",
         "pageTitle": "UPSC UPSC Engineering Services Pre Online Form 2027",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3244,7 +3244,7 @@
         "articleSection": "2027",
         "homepageSerial": 15
       },
-      "_last_checked": "2026-09-20T06:35:44+00:00"
+      "_last_checked": "2026-09-21T06:55:52+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3377,7 +3377,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-mp-police-constable-gd-sep26/",
-        "scrapedAt": "2026-09-20T12:05:45",
+        "scrapedAt": "2026-09-21T12:25:52",
         "pageTitle": "MPESB MP Police Constable GD Online Form 2026 for 7500 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3386,7 +3386,7 @@
         "articleSection": "2026",
         "homepageSerial": 16
       },
-      "_last_checked": "2026-09-20T06:35:45+00:00"
+      "_last_checked": "2026-09-21T06:55:52+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3539,7 +3539,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ibps-rrb-15th-august26/",
-        "scrapedAt": "2026-09-20T12:05:45",
+        "scrapedAt": "2026-09-21T12:25:53",
         "pageTitle": "IBPS RRB 15th Gramin Bank Various Post Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3548,7 +3548,7 @@
         "articleSection": "2026",
         "homepageSerial": 17
       },
-      "_last_checked": "2026-09-20T06:35:45+00:00"
+      "_last_checked": "2026-09-21T06:55:53+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3633,7 +3633,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/up-special-tet-exam/",
-        "scrapedAt": "2026-09-20T12:05:45",
+        "scrapedAt": "2026-09-21T12:25:54",
         "pageTitle": "UPESSC UP Special TET Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3642,7 +3642,7 @@
         "articleSection": "2026",
         "homepageSerial": 18
       },
-      "_last_checked": "2026-09-20T06:35:45+00:00"
+      "_last_checked": "2026-09-21T06:55:54+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3746,7 +3746,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ruhs-medical-officer-sep26/",
-        "scrapedAt": "2026-09-20T12:05:46",
+        "scrapedAt": "2026-09-21T12:25:54",
         "pageTitle": "RUHS Medical Officer Online Form 2026 for 600 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3755,7 +3755,7 @@
         "articleSection": "2026",
         "homepageSerial": 19
       },
-      "_last_checked": "2026-09-20T06:35:46+00:00"
+      "_last_checked": "2026-09-21T06:55:54+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3881,7 +3881,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/rrc-sr-apprentices-august26/",
-        "scrapedAt": "2026-09-20T12:05:47",
+        "scrapedAt": "2026-09-21T12:25:55",
         "pageTitle": "Southern Railway RRC SR Apprentices Online Form 2026 for 4471 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -3890,7 +3890,7 @@
         "articleSection": "2026",
         "homepageSerial": 20
       },
-      "_last_checked": "2026-09-20T06:35:47+00:00"
+      "_last_checked": "2026-09-21T06:55:55+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -3996,7 +3996,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/bseb-stet-august26/",
-        "scrapedAt": "2026-09-20T12:05:47",
+        "scrapedAt": "2026-09-21T12:25:56",
         "pageTitle": "Bihar Secondary Teacher Eligibility Test BSEB STET Online Form 2026 Date Extended",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -4005,7 +4005,7 @@
         "articleSection": "2026",
         "homepageSerial": 21
       },
-      "_last_checked": "2026-09-20T06:35:47+00:00"
+      "_last_checked": "2026-09-21T06:55:56+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -4272,7 +4272,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mphc-assistant-grade-3rd-august26/",
-        "scrapedAt": "2026-09-20T12:05:47",
+        "scrapedAt": "2026-09-21T12:25:56",
         "pageTitle": "MP High Court MPHC Assistant Grade III Online Form 2026 for 1174 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -4281,7 +4281,7 @@
         "articleSection": "2026",
         "homepageSerial": 23
       },
-      "_last_checked": "2026-09-20T06:35:47+00:00"
+      "_last_checked": "2026-09-21T06:55:56+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -4415,7 +4415,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/dhc-pa-spa-sep26/",
-        "scrapedAt": "2026-09-20T12:05:48",
+        "scrapedAt": "2026-09-21T12:25:57",
         "pageTitle": "DHC Delhi High Court Personal Assistant SPA PA Online Form 2026 for 150 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -4424,7 +4424,7 @@
         "articleSection": "2026",
         "homepageSerial": 24
       },
-      "_last_checked": "2026-09-20T06:35:48+00:00"
+      "_last_checked": "2026-09-21T06:55:57+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -4589,7 +4589,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsssc-s-instructor-21-exam-2026/",
-        "scrapedAt": "2026-09-20T12:05:48",
+        "scrapedAt": "2026-09-21T12:25:58",
         "pageTitle": "UPSSSC Senior Instructor Cadre Main Exam Online Form 2026 for 132 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -4598,7 +4598,7 @@
         "articleSection": "2026",
         "homepageSerial": 25
       },
-      "_last_checked": "2026-09-20T06:35:48+00:00"
+      "_last_checked": "2026-09-21T06:55:58+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -4993,7 +4993,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/railway-rrb-paramedical-cen-05-2026/",
-        "scrapedAt": "2026-09-20T12:05:49",
+        "scrapedAt": "2026-09-21T12:25:58",
         "pageTitle": "Railway RRB Paramedical CEN 05/2026 Online Form 2026 for 590 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5002,7 +5002,7 @@
         "articleSection": "2026",
         "homepageSerial": 26
       },
-      "_last_checked": "2026-09-20T06:35:49+00:00"
+      "_last_checked": "2026-09-21T06:55:59+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -5108,7 +5108,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsssc-veterinary-18-exam-2026/",
-        "scrapedAt": "2026-09-20T12:05:49",
+        "scrapedAt": "2026-09-21T12:25:59",
         "pageTitle": "UPSSSC Veterinary Pharmacist Online Form 2026 for 1308 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5117,7 +5117,7 @@
         "articleSection": "2026",
         "homepageSerial": 27
       },
-      "_last_checked": "2026-09-20T06:35:49+00:00"
+      "_last_checked": "2026-09-21T06:55:59+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -5329,7 +5329,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsc-advt-no-11-2026/",
-        "scrapedAt": "2026-09-20T12:05:49",
+        "scrapedAt": "2026-09-21T12:26:00",
         "pageTitle": "UPSC Assistant Public Prosecutor and Other Post Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5338,7 +5338,7 @@
         "articleSection": "2026",
         "homepageSerial": 28
       },
-      "_last_checked": "2026-09-20T06:35:50+00:00"
+      "_last_checked": "2026-09-21T06:56:00+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -5535,7 +5535,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/up-anganwadi-worker/",
-        "scrapedAt": "2026-09-20T12:05:50",
+        "scrapedAt": "2026-09-21T12:26:01",
         "pageTitle": "UP Anganwadi Bharti Worker Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5544,7 +5544,7 @@
         "articleSection": "2026",
         "homepageSerial": 29
       },
-      "_last_checked": "2026-09-20T06:35:50+00:00"
+      "_last_checked": "2026-09-21T06:56:01+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -5669,7 +5669,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/india-post-gds-july2026/",
-        "scrapedAt": "2026-09-20T12:05:50",
+        "scrapedAt": "2026-09-21T12:26:02",
         "pageTitle": "India Post GDS Online Form Schedule II July 2026 for 23757 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5678,7 +5678,7 @@
         "articleSection": "2026",
         "homepageSerial": 30
       },
-      "_last_checked": "2026-09-20T06:35:50+00:00"
+      "_last_checked": "2026-09-21T06:56:02+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -5809,7 +5809,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-sub-inspector-subedar-sep26/",
-        "scrapedAt": "2026-09-20T12:05:51",
+        "scrapedAt": "2026-09-21T12:26:03",
         "pageTitle": "MPESB MP Police Sub Inspector SI Online Form 2026 for 507 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5818,7 +5818,7 @@
         "articleSection": "2026",
         "homepageSerial": 31
       },
-      "_last_checked": "2026-09-20T06:35:51+00:00"
+      "_last_checked": "2026-09-21T06:56:03+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -5965,7 +5965,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/bank-of-india-so-sep26/",
-        "scrapedAt": "2026-09-20T12:05:51",
+        "scrapedAt": "2026-09-21T12:26:03",
         "pageTitle": "Bank of India BOI Specialist Officers SO Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -5974,7 +5974,7 @@
         "articleSection": "2026",
         "homepageSerial": 32
       },
-      "_last_checked": "2026-09-20T06:35:51+00:00"
+      "_last_checked": "2026-09-21T06:56:03+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6079,7 +6079,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ukpsc-pre-2026/",
-        "scrapedAt": "2026-09-20T12:05:52",
+        "scrapedAt": "2026-09-21T12:26:04",
         "pageTitle": "UKPSC Civil Services Pre 2026 Online Form for 67 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -6088,7 +6088,7 @@
         "articleSection": "2026",
         "homepageSerial": 33
       },
-      "_last_checked": "2026-09-20T06:35:52+00:00"
+      "_last_checked": "2026-09-21T06:56:04+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6215,7 +6215,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsssc-livestock-17-exam-2026/",
-        "scrapedAt": "2026-09-20T12:05:52",
+        "scrapedAt": "2026-09-21T12:26:05",
         "pageTitle": "UPSSSC Livestock Extension Officer Online Form 2026 for 1251 Post",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -6224,7 +6224,7 @@
         "articleSection": "2026",
         "homepageSerial": 34
       },
-      "_last_checked": "2026-09-20T06:35:52+00:00"
+      "_last_checked": "2026-09-21T06:56:05+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6314,7 +6314,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-up-super-tet-2026/",
-        "scrapedAt": "2026-09-20T12:05:54",
+        "scrapedAt": "2026-09-21T12:26:08",
         "pageTitle": "UPESSC UP Super TET Assistant Teacher Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -6323,7 +6323,7 @@
         "articleSection": "2026",
         "homepageSerial": 38
       },
-      "_last_checked": "2026-09-20T06:35:54+00:00"
+      "_last_checked": "2026-09-21T06:56:08+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6704,7 +6704,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-uptgt-uppgt-syllabus/",
-        "scrapedAt": "2026-09-20T12:05:55",
+        "scrapedAt": "2026-09-21T12:26:09",
         "pageTitle": "UPESSC UP TGT",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -6713,7 +6713,7 @@
         "articleSection": "2026",
         "homepageSerial": 42
       },
-      "_last_checked": "2026-09-20T06:35:55+00:00"
+      "_last_checked": "2026-09-21T06:56:09+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6819,7 +6819,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsssc-pet-exam-jun26/",
-        "scrapedAt": "2026-09-20T12:05:56",
+        "scrapedAt": "2026-09-21T12:26:10",
         "pageTitle": "UPSSSC PET Online Form 2026 Exam Schedule",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -6828,7 +6828,7 @@
         "articleSection": "2026",
         "homepageSerial": 43
       },
-      "_last_checked": "2026-09-20T06:35:56+00:00"
+      "_last_checked": "2026-09-21T06:56:10+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6948,7 +6948,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/clat-admission-jul26/",
-        "scrapedAt": "2026-09-20T12:05:56",
+        "scrapedAt": "2026-09-21T12:26:10",
         "pageTitle": "CLAT 2027 Admission Online Form",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -6957,7 +6957,7 @@
         "articleSection": "2026",
         "homepageSerial": 44
       },
-      "_last_checked": "2026-09-20T06:35:56+00:00"
+      "_last_checked": "2026-09-21T06:56:10+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -7270,7 +7270,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/rssb-cet-graduate-level-july26/",
-        "scrapedAt": "2026-09-20T12:05:57",
+        "scrapedAt": "2026-09-21T12:26:11",
         "pageTitle": "Rajasthan RSSB Graduate Level CET Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -7279,7 +7279,7 @@
         "articleSection": "2026",
         "homepageSerial": 47
       },
-      "_last_checked": "2026-09-20T06:35:57+00:00"
+      "_last_checked": "2026-09-21T06:56:11+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -7466,7 +7466,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/rssb-cet-june26/",
-        "scrapedAt": "2026-09-20T12:05:58",
+        "scrapedAt": "2026-09-21T12:26:12",
         "pageTitle": "Rajasthan RSSB 10+2 Senior Secondary Level CET Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -7475,7 +7475,7 @@
         "articleSection": "2026",
         "homepageSerial": 49
       },
-      "_last_checked": "2026-09-20T06:35:58+00:00"
+      "_last_checked": "2026-09-21T06:56:12+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -8421,7 +8421,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/uprtou-ph-d-entrance-exam-sep26/",
-        "scrapedAt": "2026-09-20T12:05:58",
+        "scrapedAt": "2026-09-21T12:26:13",
         "pageTitle": "UPRTOU Ph.D Entrance Exam Admission Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -8430,7 +8430,7 @@
         "articleSection": "2026",
         "homepageSerial": 57
       },
-      "_last_checked": "2026-09-20T06:35:58+00:00"
+      "_last_checked": "2026-09-21T06:56:13+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -8557,7 +8557,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/up-scholarship-postmatric-jul26/",
-        "scrapedAt": "2026-09-20T12:05:58",
+        "scrapedAt": "2026-09-21T12:26:13",
         "pageTitle": "UP Scholarship Online Form 2026 for Renewal / Fresh Candidate",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -8566,7 +8566,7 @@
         "articleSection": "2026",
         "homepageSerial": 58
       },
-      "_last_checked": "2026-09-20T06:35:58+00:00"
+      "_last_checked": "2026-09-21T06:56:13+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -8674,7 +8674,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/iim-cat-jul26/",
-        "scrapedAt": "2026-09-20T12:05:59",
+        "scrapedAt": "2026-09-21T12:26:14",
         "pageTitle": "IIM CAT Admission Online Form 2026 Date Extended",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -8683,7 +8683,7 @@
         "articleSection": "2026",
         "homepageSerial": 59
       },
-      "_last_checked": "2026-09-20T06:35:59+00:00"
+      "_last_checked": "2026-09-21T06:56:14+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -8775,7 +8775,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/blet-september26/",
-        "scrapedAt": "2026-09-20T12:05:59",
+        "scrapedAt": "2026-09-21T12:26:15",
         "pageTitle": "Bihar Library Eligibility Test BLET Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -8784,7 +8784,7 @@
         "articleSection": "2026",
         "homepageSerial": 60
       },
-      "_last_checked": "2026-09-20T06:35:59+00:00"
+      "_last_checked": "2026-09-21T06:56:15+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -8893,7 +8893,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/nta-rimcee-class-8th-sep26/",
-        "scrapedAt": "2026-09-20T12:06:00",
+        "scrapedAt": "2026-09-21T12:26:15",
         "pageTitle": "NTA RIMCEE 2027 Class 8th Admissions Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -8902,7 +8902,7 @@
         "articleSection": "2026",
         "homepageSerial": 61
       },
-      "_last_checked": "2026-09-20T06:36:00+00:00"
+      "_last_checked": "2026-09-21T06:56:15+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -8983,7 +8983,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/university-of-allahabad-au-sep26/",
-        "scrapedAt": "2026-09-20T12:06:00",
+        "scrapedAt": "2026-09-21T12:26:16",
         "pageTitle": "University of Allahabad AU Ph.D. Admission Online From 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -8992,7 +8992,7 @@
         "articleSection": "2026",
         "homepageSerial": 62
       },
-      "_last_checked": "2026-09-20T06:36:00+00:00"
+      "_last_checked": "2026-09-21T06:56:16+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -9108,7 +9108,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2027/gate-2027/",
-        "scrapedAt": "2026-09-20T12:06:00",
+        "scrapedAt": "2026-09-21T12:26:17",
         "pageTitle": "IIT GATE 2027 Online Form",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -9117,7 +9117,7 @@
         "articleSection": "2027",
         "homepageSerial": 63
       },
-      "_last_checked": "2026-09-20T06:36:00+00:00"
+      "_last_checked": "2026-09-21T06:56:17+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -9202,7 +9202,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/aibe-22nd-august26/",
-        "scrapedAt": "2026-09-20T12:06:01",
+        "scrapedAt": "2026-09-21T12:26:17",
         "pageTitle": "All India Bar Exam AIBE 22nd XXII Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -9211,7 +9211,7 @@
         "articleSection": "2026",
         "homepageSerial": 64
       },
-      "_last_checked": "2026-09-20T06:36:01+00:00"
+      "_last_checked": "2026-09-21T06:56:17+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -9292,7 +9292,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2027/iit-jam-august26/",
-        "scrapedAt": "2026-09-20T12:06:01",
+        "scrapedAt": "2026-09-21T12:26:18",
         "pageTitle": "IIT JAM 2027 Online Form",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -9301,7 +9301,7 @@
         "articleSection": "2027",
         "homepageSerial": 65
       },
-      "_last_checked": "2026-09-20T06:36:01+00:00"
+      "_last_checked": "2026-09-21T06:56:18+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -9507,7 +9507,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/nvs-class-6th-admission-july26/",
-        "scrapedAt": "2026-09-20T12:06:02",
+        "scrapedAt": "2026-09-21T12:26:19",
         "pageTitle": "Jawahar Navodaya Vidyalaya JNV NVS Class 6th Admission Online Form 2027",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -9516,7 +9516,7 @@
         "articleSection": "2026",
         "homepageSerial": 67
       },
-      "_last_checked": "2026-09-20T06:36:02+00:00"
+      "_last_checked": "2026-09-21T06:56:19+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -10289,7 +10289,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/csjmu-kanpur-degree-sep26/",
-        "scrapedAt": "2026-09-20T12:06:02",
+        "scrapedAt": "2026-09-21T12:26:20",
         "pageTitle": "CSJMU Kanpur Degree, Provisional & Migration Certificate Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -10298,7 +10298,7 @@
         "articleSection": "2026",
         "homepageSerial": 73
       },
-      "_last_checked": "2026-09-20T06:36:02+00:00"
+      "_last_checked": "2026-09-21T06:56:20+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -10358,7 +10358,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ccsu-meerut-provisional-certificate/",
-        "scrapedAt": "2026-09-20T12:06:03",
+        "scrapedAt": "2026-09-21T12:26:21",
         "pageTitle": "CCSU Meerut University Provisional & Migration Certificate Download",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -10367,7 +10367,7 @@
         "articleSection": "2026",
         "homepageSerial": 74
       },
-      "_last_checked": "2026-09-20T06:36:03+00:00"
+      "_last_checked": "2026-09-21T06:56:21+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -10432,7 +10432,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/prsu-prayagraj-provisional-aug26/",
-        "scrapedAt": "2026-09-20T12:06:03",
+        "scrapedAt": "2026-09-21T12:26:21",
         "pageTitle": "PRSU Prayagraj University Provisional & Migration Certificate Download",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
@@ -10441,7 +10441,7 @@
         "articleSection": "2026",
         "homepageSerial": 75
       },
-      "_last_checked": "2026-09-20T06:36:03+00:00"
+      "_last_checked": "2026-09-21T06:56:21+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -13126,7 +13126,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/delhi/dsssb-latest-result/",
-        "scrapedAt": "2026-09-20T12:06:06",
+        "scrapedAt": "2026-09-21T12:25:29",
         "pageTitle": "DSSSB Latest Result 2026",
         "detectedCategory": "SR_Result",
         "categoryOverridden": false,
@@ -13136,7 +13136,7 @@
         "homepageSerial": 11
       },
       "resultUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/817-23_nursery_female.pdf",
-      "_last_checked": "2026-09-20T06:36:07+00:00"
+      "_last_checked": "2026-09-21T06:55:29+00:00"
     },
     {
       "category": "SR_Result",
@@ -16160,7 +16160,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/indian-air-force-medical-assistant/",
-        "scrapedAt": "2026-09-20T12:06:08",
+        "scrapedAt": "2026-09-21T12:25:30",
         "pageTitle": "Indian Air Force Airmen Group Y Medical Assistant INET 02/2027 Admit Card 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -16170,7 +16170,7 @@
         "homepageSerial": 2
       },
       "admitCardUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/101431/login.html",
-      "_last_checked": "2026-09-20T06:36:08+00:00"
+      "_last_checked": "2026-09-21T06:55:30+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -16299,7 +16299,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/force/indian-airforce-agniveervayu-02-2027/",
-        "scrapedAt": "2026-09-20T12:06:09",
+        "scrapedAt": "2026-09-21T12:25:31",
         "pageTitle": "Indian Airforce Agniveervayu Intake 02/2027 Admit card 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -16309,7 +16309,7 @@
         "homepageSerial": 3
       },
       "admitCardUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/101256/login.html",
-      "_last_checked": "2026-09-20T06:36:09+00:00"
+      "_last_checked": "2026-09-21T06:55:31+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -16446,7 +16446,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-group2-subgroup-4-aug26/",
-        "scrapedAt": "2026-09-20T12:06:09",
+        "scrapedAt": "2026-09-21T12:25:32",
         "pageTitle": "MPESB Group 2 Sub Group 4 Patwari and Other Post Admit Card 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -16456,7 +16456,7 @@
         "homepageSerial": 4
       },
       "admitCardUrl": "https://esb.mp.gov.in/tacs/tac_2026/Group2_SG4_TAC26/default_tac.htm",
-      "_last_checked": "2026-09-20T06:36:09+00:00"
+      "_last_checked": "2026-09-21T06:55:32+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -16801,7 +16801,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/upsssc/upsssc-forest-guard-12-exam-2026/",
-        "scrapedAt": "2026-09-20T12:06:10",
+        "scrapedAt": "2026-09-21T12:25:32",
         "pageTitle": "UPSSSC Forest Guard / Wild Life Guard Mains Exam City 2026 for 708 Post",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -16810,7 +16810,7 @@
         "articleSection": "UPSSSC",
         "homepageSerial": 6
       },
-      "_last_checked": "2026-09-20T06:36:10+00:00"
+      "_last_checked": "2026-09-21T06:55:32+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -16996,7 +16996,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upsssc-paramedical-fsl-15-exam-2026/",
-        "scrapedAt": "2026-09-20T12:06:10",
+        "scrapedAt": "2026-09-21T12:25:33",
         "pageTitle": "UPSSSC Scientific and Lab Assistant Mains Exam City Details 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -17005,7 +17005,7 @@
         "articleSection": "2026",
         "homepageSerial": 7
       },
-      "_last_checked": "2026-09-20T06:36:10+00:00"
+      "_last_checked": "2026-09-21T06:55:33+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -17927,7 +17927,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/rrb-section-controller-03-2026/",
-        "scrapedAt": "2026-09-20T12:06:11",
+        "scrapedAt": "2026-09-21T12:25:34",
         "pageTitle": "Railway RRB Section Controller Exam Date 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -17936,7 +17936,7 @@
         "articleSection": "2026",
         "homepageSerial": 14
       },
-      "_last_checked": "2026-09-20T06:36:11+00:00"
+      "_last_checked": "2026-09-21T06:55:34+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -18074,7 +18074,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/upsssc/upsssc-excise-constable-08-exam2026/",
-        "scrapedAt": "2026-09-20T12:06:12",
+        "scrapedAt": "2026-09-21T12:25:35",
         "pageTitle": "UPSSSC UP Excise Constable Admit Card 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -18084,7 +18084,7 @@
         "homepageSerial": 15
       },
       "admitCardUrl": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=MAIN",
-      "_last_checked": "2026-09-20T06:36:12+00:00"
+      "_last_checked": "2026-09-21T06:55:35+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -18201,7 +18201,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/upsssc/upsssc-pharmaceutical-01-2024/",
-        "scrapedAt": "2026-09-20T12:06:12",
+        "scrapedAt": "2026-09-21T12:25:36",
         "pageTitle": "UPSSSC Pharmacist Ayurvedic 2024 Admit Card 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -18211,7 +18211,7 @@
         "homepageSerial": 16
       },
       "admitCardUrl": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=MAIN",
-      "_last_checked": "2026-09-20T06:36:12+00:00"
+      "_last_checked": "2026-09-21T06:55:36+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -18550,7 +18550,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/railway-rrb-junior-engineer-cen-04-2026/",
-        "scrapedAt": "2026-09-20T12:06:13",
+        "scrapedAt": "2026-09-21T12:25:37",
         "pageTitle": "Railway RRB Junior Engineer JE Exam Date 2026 for 4029 Post",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -18559,7 +18559,7 @@
         "articleSection": "2026",
         "homepageSerial": 17
       },
-      "_last_checked": "2026-09-20T06:36:13+00:00"
+      "_last_checked": "2026-09-21T06:55:37+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -19061,17 +19061,17 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-principal-02-2026/",
-        "scrapedAt": "2026-09-17T09:16:04",
+        "scrapedAt": "2026-09-21T12:25:37",
         "pageTitle": "UPESSC UP Principal Admit Card 2026 for 111 Post",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
         "publishedTime": "2026-09-15T01:38:23+05:30",
         "modifiedTime": "2026-09-15T01:38:26+05:30",
         "articleSection": "2026",
-        "homepageSerial": 9
+        "homepageSerial": 19
       },
       "admitCardUrl": "https://admitcards.upessc.org/login",
-      "_last_checked": "2026-09-17T03:46:04+00:00"
+      "_last_checked": "2026-09-21T06:55:37+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -19154,7 +19154,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/ctet-september-2026/",
-        "scrapedAt": "2026-09-20T12:06:14",
+        "scrapedAt": "2026-09-21T12:25:38",
         "pageTitle": "CTET September 2026 Exam Date",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -19163,7 +19163,7 @@
         "articleSection": "2026",
         "homepageSerial": 20
       },
-      "_last_checked": "2026-09-20T06:36:14+00:00"
+      "_last_checked": "2026-09-21T06:55:38+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -19269,7 +19269,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/ssc/ssc-selection-post-14th-2026/",
-        "scrapedAt": "2026-09-20T12:06:14",
+        "scrapedAt": "2026-09-21T12:25:39",
         "pageTitle": "SSC Selection Post 14th Admit Card 2026 for 3003 Post",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -19279,7 +19279,7 @@
         "homepageSerial": 21
       },
       "admitCardUrl": "https://ssc.gov.in/login",
-      "_last_checked": "2026-09-20T06:36:14+00:00"
+      "_last_checked": "2026-09-21T06:55:39+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -20067,7 +20067,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/ssc/ssc-cgl-2026/",
-        "scrapedAt": "2026-09-20T12:06:14",
+        "scrapedAt": "2026-09-21T12:25:39",
         "pageTitle": "SSC Combined Graduate Level CGL Exam Schedule 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -20076,7 +20076,7 @@
         "articleSection": "SSC",
         "homepageSerial": 24
       },
-      "_last_checked": "2026-09-20T06:36:14+00:00"
+      "_last_checked": "2026-09-21T06:55:39+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -20189,7 +20189,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/patna-high-court-july26/",
-        "scrapedAt": "2026-09-20T12:06:15",
+        "scrapedAt": "2026-09-21T12:25:40",
         "pageTitle": "Patna High Court Assistant Group C Admit Card 2026",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": false,
@@ -20199,7 +20199,7 @@
         "homepageSerial": 25
       },
       "admitCardUrl": "https://cdn.digialm.com/EForms/configuredHtml/1149/101044/login.html",
-      "_last_checked": "2026-09-20T06:36:15+00:00"
+      "_last_checked": "2026-09-21T06:55:40+00:00"
     },
     {
       "category": "SR_Answer_Key",
@@ -21222,7 +21222,7 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/delhi/dsssb-admit-card-download/",
-        "scrapedAt": "2026-09-20T12:06:05",
+        "scrapedAt": "2026-09-21T12:25:30",
         "pageTitle": "DSSSB Delhi Admit Card September 2026 Exam",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": true,
@@ -21232,7 +21232,7 @@
         "homepageSerial": 7
       },
       "admitCardUrl": "https://www.digialm.com/EForms/configuredHtml/1258/102404/login.html",
-      "_last_checked": "2026-09-20T06:36:05+00:00"
+      "_last_checked": "2026-09-21T06:55:30+00:00"
     },
     {
       "category": "SR_Answer_Key",
@@ -51137,6 +51137,373 @@
     },
     {
       "category": "UPCOMING_JOBS",
+      "title": "RRB 3477 NTPC (Graduate Level) Online Form",
+      "slug": "rrb-3477-ntpc-graduate-level-online-form",
+      "_scraped_from": "",
+      "advt_no": "CEN-06/2026",
+      "department": "",
+      "post_name": "NTPC (Graduate Level) Posts",
+      "total_vacancy": "3477",
+      "last_date": "2026-11-06",
+      "application_start": "2026-10-08",
+      "exam_date": "Available Soon",
+      "interview_date": "",
+      "result_date": "",
+      "admit_card_date": "Available Soon",
+      "age_limit": "18-33",
+      "salary": "",
+      "qualification": "Available Soon",
+      "selection_process": "CBT Stage-I Written Exam, CBT Stage-II Written Exam, CBAT / Typing Test (If Applicable), Medical Examination, Document Verification",
+      "application_mode": "",
+      "fee_general": "",
+      "fee_obc": "",
+      "fee_sc_st": "",
+      "fee_female": "",
+      "fee_payment_mode": "Online Mode",
+      "job_location": "",
+      "status": "active",
+      "important_links": {
+        "official_website": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281"
+      },
+      "vacancy_details": [
+        {
+          "form_mode": "Online Form",
+          "job_state": "All India",
+          "total_posts": "3477 Posts",
+          "job_type": "Permanent"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "RRB NTPC (Graduate Level) Recruitment 2026 : Get complete details about RRB NTPC (Graduate Level) Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Form Mode",
+                    "links": []
+                  },
+                  {
+                    "text": "Job State",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Job Type",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "All India",
+                    "links": []
+                  },
+                  {
+                    "text": "3477 Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Permanent",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Railway Recruitment Board (RRB) NTPC (Graduate Level) Recruitment 2026 Advt No. : CEN-06/2026 Short Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Dates (Tentative)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Starting Date : 08/10/2026 Last Date : 06/11/2026 11:59 PM Exam Date : Available Soon Admit Card : Available Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Fees",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "General / OBC / EWS : 500/- SC / ST / EBC / ESM : 250/- All Female Category : 250/- Minorities / 3rd Gender : 250/- Payment Mode : Online Mode Refund Terms : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit : 18-33 Years Age Limit as on : 01/01/2027 The Age Relaxation Extra as per Rules.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Selection Process",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "CBT Stage-I Written Exam CBT Stage-II Written Exam CBAT / Typing Test (If Applicable) Medical Examination Document Verification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Pay Scale Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Pay Level : Level-05 & 06 As Per 7th CPC",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Dates (Tentative)",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Starting Date : 08/10/2026",
+                "Last Date : 06/11/2026 11:59 PM",
+                "Exam Date : Available Soon",
+                "Admit Card : Available Soon"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application Fees",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "General / OBC / EWS : 500/",
+                "SC / ST / EBC / ESM : 250/",
+                "All Female Category : 250/",
+                "Minorities / 3rd Gender : 250/",
+                "Payment Mode : Online Mode",
+                "Refund Terms : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age Limit Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Age Limit : 18-33 Years",
+                "Age Limit as on : 01/01/2027",
+                "The Age Relaxation Extra as per Rules."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selection Process",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "CBT Stage-I Written Exam",
+                "CBT Stage-II Written Exam",
+                "CBAT / Typing Test (If Applicable)",
+                "Medical Examination",
+                "Document Verification"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pay Scale Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Pay Level : Level-05 & 06 As Per 7th CPC"
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Total Post & Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Post",
+                    "links": []
+                  },
+                  {
+                    "text": "Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "NTPC (Graduate Level) Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "3477 (Tentative)",
+                    "links": []
+                  },
+                  {
+                    "text": "Available Soon",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total Post & Qualification",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Important Related Links",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Source Title",
+                    "links": []
+                  },
+                  {
+                    "text": "Issue Date",
+                    "links": []
+                  },
+                  {
+                    "text": "Source Link",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Fill Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "08/10/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Full Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "08/10/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Short Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "21/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Official Website",
+                    "links": []
+                  },
+                  {
+                    "text": "21/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Visit Now",
+                    "links": [
+                      {
+                        "text": "Visit Now",
+                        "url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "extra_fields": {
+        "general_obc_ews": "500/",
+        "sc_st_ebc_esm": "250/",
+        "all_female_category": "250/",
+        "minorities_3rd_gender": "250/",
+        "general_obc": "R",
+        "s_400_will_be_refunded_and_other_candidates": "Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam",
+        "pay_level": "Level-05 & 06 As Per 7th CPC"
+      },
+      "sequence": 1,
+      "_last_checked": "2026-09-21T06:56:23+00:00"
+    },
+    {
+      "category": "UPCOMING_JOBS",
       "title": "HPSC Food Safety Officer Vacancy Online Form",
       "slug": "hpsc-food-safety-officer-vacancy-online-form",
       "_scraped_from": "",
@@ -51538,8 +51905,8 @@
         "ph_physical_handicap": "0/- (",
         "food_safety_officer_fso": "Bachelor’s Degree or Master’s Degree or Doctorate Degree in Food Technology / Dairy Technology / Biotechnology / Oil Technology OR Disciplines Deemed to be Covered Under “Agricultural Science” OR Veterinary Sciences / Bio-Chemistry / Microbiology / Chemistry / Medicine OR MBBS / BDS / BHMS / BUMS / BSMS / BAMS / Sowa Rigpa."
       },
-      "sequence": 3,
-      "_last_checked": "2026-09-20T06:36:17+00:00"
+      "sequence": 2,
+      "_last_checked": "2026-09-21T06:56:24+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -52001,8 +52368,8 @@
         "library_restorer": "FPL-2 (Rs. 19900-63200)",
         "store_keeper": "FPL-2 (Rs. 19900-63200)"
       },
-      "sequence": 4,
-      "_last_checked": "2026-09-20T06:36:18+00:00"
+      "sequence": 3,
+      "_last_checked": "2026-09-21T06:56:25+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -52450,8 +52817,8 @@
         "copa_assistant_sub_inspector_ministerial": "12th Passed and CPCT Passed (Hindi Typing) with Computer Diploma / Degree / COPA",
         "correction_date": "Upto 13/10/2026"
       },
-      "sequence": 5,
-      "_last_checked": "2026-09-20T06:36:18+00:00"
+      "sequence": 4,
+      "_last_checked": "2026-09-21T06:56:27+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -53036,8 +53403,8 @@
         "correction_date": "26-27 October 2026",
         "pet_pst_test_start": "From 19/11/2026 (Tentative)"
       },
-      "sequence": 7,
-      "_last_checked": "2026-09-20T06:36:20+00:00"
+      "sequence": 5,
+      "_last_checked": "2026-09-21T06:56:31+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -53370,8 +53737,8 @@
         "full_notification": "22/09/2026",
         "for_all_candidates": "200/"
       },
-      "sequence": 8,
-      "_last_checked": "2026-09-20T06:36:20+00:00"
+      "sequence": 6,
+      "_last_checked": "2026-09-21T06:56:32+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -54023,8 +54390,8 @@
       "extra_fields": {
         "for_all_candidates": "100/"
       },
-      "sequence": 9,
-      "_last_checked": "2026-09-20T06:36:21+00:00"
+      "sequence": 7,
+      "_last_checked": "2026-09-21T06:56:33+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -54579,8 +54946,8 @@
         "correction_date": "Upto 11/10/2026",
         "exam_start": "From 19/11/2026"
       },
-      "sequence": 10,
-      "_last_checked": "2026-09-20T06:36:21+00:00"
+      "sequence": 8,
+      "_last_checked": "2026-09-21T06:56:34+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -55022,8 +55389,8 @@
         "middle_school_teacher": "Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified.",
         "senior_secondary_teacher": "PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified."
       },
-      "sequence": 11,
-      "_last_checked": "2026-09-20T06:36:22+00:00"
+      "sequence": 9,
+      "_last_checked": "2026-09-21T06:56:35+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -55471,8 +55838,8 @@
         "unreserved": "600/",
         "sc_st_ews": "500/"
       },
-      "sequence": 12,
-      "_last_checked": "2026-09-20T06:36:22+00:00"
+      "sequence": 10,
+      "_last_checked": "2026-09-21T06:56:36+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -56089,8 +56456,8 @@
         "for_sc_ph_of_haryana": "55% (82",
         "marks_for_other_candidates": "60% (90 Marks)"
       },
-      "sequence": 13,
-      "_last_checked": "2026-09-20T06:36:23+00:00"
+      "sequence": 11,
+      "_last_checked": "2026-09-21T06:56:37+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -56530,8 +56897,8 @@
         "stenographer": "Pay Grade (5200-20200) GP- 2400 (Rs 25500-81100)",
         "receptionist": "Pay Band (5200-20200) GP- 2800 (Rs 29200-92300)"
       },
-      "sequence": 14,
-      "_last_checked": "2026-09-20T06:36:23+00:00"
+      "sequence": 12,
+      "_last_checked": "2026-09-21T06:56:38+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -57339,8 +57706,8 @@
         "technician_iii": "10th Passed & ITI (Fitter/ Mechanic/ Electrician/ Welder etc.)",
         "commercial_supervisor": "Graduation in any discipline (1 post reserved for PwBD)"
       },
-      "sequence": 15,
-      "_last_checked": "2026-09-20T06:36:24+00:00"
+      "sequence": 13,
+      "_last_checked": "2026-09-21T06:56:39+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -57731,8 +58098,8 @@
         "gen_obc_ews": "Avail. Soon",
         "sc_st_ph": "Avail. Soon"
       },
-      "sequence": 17,
-      "_last_checked": "2026-09-20T06:36:25+00:00"
+      "sequence": 15,
+      "_last_checked": "2026-09-21T06:56:41+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -58824,8 +59191,8 @@
       "extra_fields": {
         "helper": "351"
       },
-      "sequence": 18,
-      "_last_checked": "2026-09-20T06:36:26+00:00"
+      "sequence": 16,
+      "_last_checked": "2026-09-21T06:56:42+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -59179,8 +59546,8 @@
         }
       ],
       "extra_fields": {},
-      "sequence": 1,
-      "_last_checked": "2026-09-20T06:36:27+00:00"
+      "sequence": 2,
+      "_last_checked": "2026-09-21T06:56:44+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -59479,8 +59846,8 @@
         "gen_obc_ews": "2700/",
         "sc_st": "1350/"
       },
-      "sequence": 2,
-      "_last_checked": "2026-09-20T06:36:27+00:00"
+      "sequence": 3,
+      "_last_checked": "2026-09-21T06:56:45+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -59787,8 +60154,8 @@
         "iit_madras_zone": "Alappuzha, Aluva-Ernakulam, Chennai, Coimbatore, Guntur, Karimnagar, Karaikudi, Khammam, Kollam, Kottayam, Madurai, Ongole, Puducherry, Salem, Thiruvananthapuram, Tiruchirappalli, Tirunelveli, Tirupati, Warangal.",
         "iit_roorkee_zone": "Ambala, Dehradun, Ghaziabad, Haldwani, Jalandhar-Phagwara, Kangra, Meerut, Mohali-Chandigarh, Moradabad, NOIDA, Patiala, Roorkee, Shimla-Solan."
       },
-      "sequence": 3,
-      "_last_checked": "2026-09-20T06:36:28+00:00"
+      "sequence": 4,
+      "_last_checked": "2026-09-21T06:56:46+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -60077,8 +60444,8 @@
       "extra_fields": {
         "class_12th_additional_subject_fees": "400/"
       },
-      "sequence": 5,
-      "_last_checked": "2026-09-20T06:36:29+00:00"
+      "sequence": 6,
+      "_last_checked": "2026-09-21T06:56:48+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -60490,8 +60857,8 @@
         "stage_ii": "Viva Voce (Interview – 50 Marks)",
         "stage_iii": "Medical Examination"
       },
-      "sequence": 6,
-      "_last_checked": "2026-09-20T06:36:29+00:00"
+      "sequence": 7,
+      "_last_checked": "2026-09-21T06:56:49+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -60854,8 +61221,8 @@
         "no_exam_mode": "Offline (OMR Based)",
         "born_between": "01/05/2012 to 31/07/2014 (both dates inclusive)."
       },
-      "sequence": 7,
-      "_last_checked": "2026-09-20T06:36:30+00:00"
+      "sequence": 8,
+      "_last_checked": "2026-09-21T06:56:50+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -61248,8 +61615,8 @@
         "no_exam_mode": "Offline (OMR Based)",
         "born_between": "01/06/2010 to 31/07/2012 (both dates inclusive)."
       },
-      "sequence": 8,
-      "_last_checked": "2026-09-20T06:36:30+00:00"
+      "sequence": 9,
+      "_last_checked": "2026-09-21T06:56:51+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -61529,8 +61896,8 @@
         "exam_name": "Qualification",
         "all_india_bar_examination_aibe_xxii": "Bachelor Degree in Law (LLB)"
       },
-      "sequence": 9,
-      "_last_checked": "2026-09-20T06:36:31+00:00"
+      "sequence": 10,
+      "_last_checked": "2026-09-21T06:56:52+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -62128,8 +62495,8 @@
         "dbranlu_haryana": "NLUT AGARTALA",
         "rpnlup_prayagraj": "IIULER, Goa"
       },
-      "sequence": 11,
-      "_last_checked": "2026-09-20T06:36:32+00:00"
+      "sequence": 12,
+      "_last_checked": "2026-09-21T06:56:54+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -62932,8 +63299,8 @@
       "extra_fields": {
         "not_declared_11": "59 PM"
       },
-      "sequence": 24,
-      "_last_checked": "2026-09-20T06:36:40+00:00"
+      "sequence": 25,
+      "_last_checked": "2026-09-21T06:57:08+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -62968,8 +63335,8 @@
       "vacancy_details": [],
       "sections": [],
       "extra_fields": {},
-      "sequence": 25,
-      "_last_checked": "2026-09-20T06:36:41+00:00"
+      "sequence": 26,
+      "_last_checked": "2026-09-21T06:57:09+00:00"
     }
   ]
 }
