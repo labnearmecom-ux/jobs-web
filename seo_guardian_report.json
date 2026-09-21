@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-09-21T02:38:02.117535+00:00",
+  "timestamp": "2026-09-21T03:03:29.424518+00:00",
   "mode": "changed-only",
   "dry_run": false,
-  "files_scanned": 10649,
+  "files_scanned": 10956,
   "issues_found_by_check": {
-    "jobposting_schema": 160,
+    "jobposting_schema": 172,
     "ai_marker_integrity": 13,
-    "expired_job": 4,
+    "expired_job": 2,
     "sitemap_sync": 200
   },
-  "issues_auto_fixed": 85,
+  "issues_auto_fixed": 88,
   "unfixable": [
     {
       "file": "jobs/aai-apprentice-recruitment-2026-apply-online-for-graduate-diploma-apprentice-p/index.html",
@@ -162,6 +162,12 @@
       "reason": "region differs on weak/bad signal (Delhi/110001 -> Karnataka/560001 [L_DISTRICT]) — manual review"
     },
     {
+      "file": "jobs/cpri-recruitment-2026-notification-out-apply-online-for-110-assistant-mts-and/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Delhi/110001 -> Karnataka/560001 [L_DISTRICT]) — manual review"
+    },
+    {
       "file": "jobs/csl-ship-draftsman-trainee-recruitment-2026-apply-online-for-60-posts/index.html",
       "check": "jobposting_schema",
       "severity": "non_critical",
@@ -276,6 +282,12 @@
       "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 11 END)"
     },
     {
+      "file": "jobs/hbchrc-visakhapatnam-mts-recruitment-2026-walk-in/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Madhya Pradesh/462001 -> Andhra Pradesh/520001 [L_DISTRICT]) — manual review"
+    },
+    {
       "file": "jobs/hpcl-ta-consultant-recruitment-2026-apply-online-for-24-posts/index.html",
       "check": "jobposting_schema",
       "severity": "non_critical",
@@ -316,6 +328,12 @@
       "check": "jobposting_schema",
       "severity": "non_critical",
       "reason": "region differs on weak/bad signal (Delhi/110001 -> Gujarat/380001 [L_DISTRICT]) — manual review"
+    },
+    {
+      "file": "jobs/income-tax-pune-sports-quota-recruitment-2026-last-date-extended-apply-online/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Delhi/110001 -> Maharashtra/400001 [L_DISTRICT]) — manual review"
     },
     {
       "file": "jobs/income-tax-pune-sports-quota-recruitment-2026-notification-out-apply-online-fo/index.html",
@@ -366,6 +384,12 @@
       "reason": "region differs on weak/bad signal (Madhya Pradesh/462001 -> Uttarakhand/248001 [L_DISTRICT]) — manual review"
     },
     {
+      "file": "jobs/kvic-recruitment-2026-apply-online-for-50-young-professional-advisor-and-senio/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Delhi/110001 -> Maharashtra/400001 [L_DISTRICT]) — manual review"
+    },
+    {
       "file": "jobs/mdu-dde-ug-pg-admission-online-form-2026/index.html",
       "check": "ai_marker_integrity",
       "severity": "non_critical",
@@ -385,6 +409,12 @@
     },
     {
       "file": "jobs/mecl-recruitment-2026-apply-online-for-122-technician-assistant-and-more-posts/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Delhi/110001 -> Maharashtra/400001 [L_DISTRICT]) — manual review"
+    },
+    {
+      "file": "jobs/mumbai-port-authority-recruitment-2026-apply-offline-for-13-clerk-junior-plann/index.html",
       "check": "jobposting_schema",
       "severity": "non_critical",
       "reason": "region differs on weak/bad signal (Delhi/110001 -> Maharashtra/400001 [L_DISTRICT]) — manual review"
@@ -498,6 +528,12 @@
       "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 2 END)"
     },
     {
+      "file": "jobs/rites-recruitment-2026-apply-online-for-assistant-manager-senior-manager-posts/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Delhi/110001 -> Haryana/122001 [L_DISTRICT]) — manual review"
+    },
+    {
       "file": "jobs/rrc-ncr-apprentice-recruitment-2026-notification-out-apply-online-for-1853-pos/index.html",
       "check": "jobposting_schema",
       "severity": "non_critical",
@@ -514,6 +550,12 @@
       "check": "jobposting_schema",
       "severity": "non_critical",
       "reason": "region differs on weak/bad signal (Delhi/110001 -> Maharashtra/400001 [L_DISTRICT]) — manual review"
+    },
+    {
+      "file": "jobs/stpi-apprentice-trainee-recruitment-2026-notification-out-apply-online-for-15/index.html",
+      "check": "jobposting_schema",
+      "severity": "non_critical",
+      "reason": "region differs on weak/bad signal (Delhi/110001 -> Tamil Nadu/600001 [L_DISTRICT]) — manual review"
     },
     {
       "file": "jobs/svnirtar-recruitment-2026-apply-online-for-11-assistant-assistant-professor-an/index.html",
@@ -1768,7 +1810,7 @@
   "seo_clean": true,
   "notes": [
     "broken_links:   [ImportantCSC PDF] drive-google-com-dca2e21e",
-    "build_sitemaps:   sitemap-pages.xml               118 urls [ok]"
+    "build_sitemaps:   sitemap-pages.xml               119 urls [ok]"
   ],
-  "duration_sec": 43.0
+  "duration_sec": 46.2
 }
