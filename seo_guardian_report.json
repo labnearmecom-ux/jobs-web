@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-09-22T02:39:51.119992+00:00",
+  "timestamp": "2026-09-22T03:09:51.663879+00:00",
   "mode": "changed-only",
   "dry_run": false,
-  "files_scanned": 10957,
+  "files_scanned": 11064,
   "issues_found_by_check": {
-    "jobposting_schema": 172,
-    "expired_job": 9,
+    "jobposting_schema": 173,
+    "expired_job": 1,
     "ai_marker_integrity": 13,
     "sitemap_sync": 200
   },
-  "issues_auto_fixed": 95,
+  "issues_auto_fixed": 88,
   "unfixable": [
     {
       "file": "jobs/aai-apprentice-recruitment-2026-apply-online-for-graduate-diploma-apprentice-p/index.html",
@@ -1140,12 +1140,6 @@
       "reason": "page on disk not in any sitemap: /jobs/aiims-delhi-administrative-assistant-recruitment-2026-apply-online/"
     },
     {
-      "file": "jobs/aiims-delhi-clinical-research-coordinator-recruitment-2026-apply-online/index.html",
-      "check": "sitemap_sync",
-      "severity": "non_critical",
-      "reason": "page on disk not in any sitemap: /jobs/aiims-delhi-clinical-research-coordinator-recruitment-2026-apply-online/"
-    },
-    {
       "file": "jobs/aiims-delhi-data-entry-operator-recruitment-2026-apply-offline/index.html",
       "check": "sitemap_sync",
       "severity": "non_critical",
@@ -1236,12 +1230,6 @@
       "reason": "page on disk not in any sitemap: /jobs/aiims-delhi-project-nurse-iii-recruitment-2026-apply-online/"
     },
     {
-      "file": "jobs/aiims-delhi-project-nurse-recruitment-2026-apply-online/index.html",
-      "check": "sitemap_sync",
-      "severity": "non_critical",
-      "reason": "page on disk not in any sitemap: /jobs/aiims-delhi-project-nurse-recruitment-2026-apply-online/"
-    },
-    {
       "file": "jobs/aiims-delhi-project-research-scientist-i-recruitment-2026-apply-online/index.html",
       "check": "sitemap_sync",
       "severity": "non_critical",
@@ -1258,12 +1246,6 @@
       "check": "sitemap_sync",
       "severity": "non_critical",
       "reason": "page on disk not in any sitemap: /jobs/aiims-delhi-project-research-scientist-recruitment-2026-apply-offline/"
-    },
-    {
-      "file": "jobs/aiims-delhi-project-research-scientist-recruitment-2026-apply-online/index.html",
-      "check": "sitemap_sync",
-      "severity": "non_critical",
-      "reason": "page on disk not in any sitemap: /jobs/aiims-delhi-project-research-scientist-recruitment-2026-apply-online/"
     },
     {
       "file": "jobs/aiims-delhi-project-scientist-b-recruitment-2026-apply-online/index.html",
@@ -1804,13 +1786,31 @@
       "check": "sitemap_sync",
       "severity": "non_critical",
       "reason": "page on disk not in any sitemap: /jobs/aiims-kalyani-recruitment-2026-apply-online-for-51-senior-resident-senior-demo/"
+    },
+    {
+      "file": "jobs/aiims-kalyani-recruitment-2026-apply-online-for-project-technical-support-iii/index.html",
+      "check": "sitemap_sync",
+      "severity": "non_critical",
+      "reason": "page on disk not in any sitemap: /jobs/aiims-kalyani-recruitment-2026-apply-online-for-project-technical-support-iii/"
+    },
+    {
+      "file": "jobs/aiims-kalyani-recruitment-2026-apply-online-for-project-technical-support-offi/index.html",
+      "check": "sitemap_sync",
+      "severity": "non_critical",
+      "reason": "page on disk not in any sitemap: /jobs/aiims-kalyani-recruitment-2026-apply-online-for-project-technical-support-offi/"
+    },
+    {
+      "file": "jobs/aiims-kalyani-recruitment-2026-apply-online-for-scientist-laboratory-technicia/index.html",
+      "check": "sitemap_sync",
+      "severity": "non_critical",
+      "reason": "page on disk not in any sitemap: /jobs/aiims-kalyani-recruitment-2026-apply-online-for-scientist-laboratory-technicia/"
     }
   ],
   "critical_unfixable": 0,
   "seo_clean": true,
   "notes": [
     "broken_links:   [ImportantCSC PDF] drive-google-com-dca2e21e",
-    "build_sitemaps:   sitemap-pages.xml               119 urls [ok]"
+    "build_sitemaps:   sitemap-pages.xml               118 urls [ok]"
   ],
-  "duration_sec": 44.7
+  "duration_sec": 45.0
 }
