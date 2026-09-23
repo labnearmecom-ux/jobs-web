@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-23T03:08:17.923497+00:00",
+  "timestamp": "2026-09-23T08:21:19.640300+00:00",
   "mode": "changed-only",
   "dry_run": false,
-  "files_scanned": 11190,
+  "files_scanned": 11194,
   "issues_found_by_check": {
     "jobposting_schema": 176,
     "ai_marker_integrity": 13,
@@ -273,13 +273,13 @@
       "file": "jobs/haryana-htet-november-2026-online-form-4730c7ebb3/index.html",
       "check": "ai_marker_integrity",
       "severity": "non_critical",
-      "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 5 END)"
+      "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 6 END)"
     },
     {
       "file": "jobs/haryana-open-fresh-10th-12th-online-form/index.html",
       "check": "ai_marker_integrity",
       "severity": "non_critical",
-      "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 7 END)"
+      "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 8 END)"
     },
     {
       "file": "jobs/haryana-pg-admission-online-form-2026/index.html",
@@ -399,7 +399,7 @@
       "file": "jobs/mdu-dde-ug-pg-admission-online-form-2026/index.html",
       "check": "ai_marker_integrity",
       "severity": "non_critical",
-      "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 43 END)"
+      "reason": "unbalanced 'TSJ_AI_BLOCK' (1 START vs 44 END)"
     },
     {
       "file": "jobs/mdu-mercy-special-chance-online-form-2026/index.html",
@@ -1818,5 +1818,5 @@
     "broken_links:   [ImportantCSC PDF] drive-google-com-dca2e21e",
     "build_sitemaps:   sitemap-pages.xml               119 urls [ok]"
   ],
-  "duration_sec": 25.3
+  "duration_sec": 42.4
 }
