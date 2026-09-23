@@ -1,32 +1,574 @@
 {
-  "scraped_at": "2026-09-22 17:01:50",
-  "total": 303,
+  "scraped_at": "2026-09-23 12:20:58",
+  "total": 307,
   "summary": {
     "sarkariresultshine_offline_jobs_top30": 30,
     "sarkariresultshine_latest_jobs_top100": 100,
     "sarkariresult_categories": {
-      "SR_Result": 25,
+      "SR_Latest_Jobs": 74,
       "SR_Answer_Key": 20,
-      "SR_Admit_Card": 24,
-      "SR_Latest_Jobs": 73
+      "SR_Result": 25,
+      "SR_Admit_Card": 25
     },
-    "sarkariresult_total": 142,
-    "upcoming_jobs": 20,
+    "sarkariresult_total": 144,
+    "upcoming_jobs": 23,
     "state_jobs_active": 0,
     "central_jobs_active": 0,
-    "admissions_active": 11
+    "admissions_active": 10
   },
   "category_counts": {
-    "SR_Latest_Jobs": 73,
+    "SR_Latest_Jobs": 74,
     "SR_Result": 25,
-    "SR_Admit_Card": 24,
+    "SR_Admit_Card": 25,
     "SR_Answer_Key": 20,
     "OFFLINE_FORM": 30,
     "LATEST_JOBS NEW": 100,
-    "UPCOMING_JOBS": 20,
-    "ADMISSIONS": 11
+    "UPCOMING_JOBS": 23,
+    "ADMISSIONS": 10
   },
   "jobs": [
+    {
+      "category": "SR_Latest_Jobs",
+      "title": "MPESB MP Police Constable General Duty Recruitment 2026 Apply Online for 7500 Post",
+      "postDate": "16/09/2026",
+      "organization": "MPESB",
+      "totalPost": "7500",
+      "shortInfo": "Madhya Pradesh Employee Selection Board (MPESB) has released MP Police Constable GD General Duty Recruitment Notification 2026. Those candidates who are Interested in this MPESB MP Police Constable GD Recruitment Exam 2026 can Apply Online from 22/09/2026 to 06/10/2026. Read the notification for recruitment eligibility, post information, selection procedure, Practice Test, pay scale and all other information",
+      "importantDates": {
+        "applicationBegin": "22/09/2026",
+        "lastDateApplyOnline": "06/10/2026",
+        "lastDatePayFee": "06/10/2026",
+        "formCorrectionDate": "11/10/2026",
+        "examDate": "19/11/2026",
+        "admitCardDate": "Before Exam",
+        "answerKeyDate": "After Exam",
+        "resultDate": "Notified Soon"
+      },
+      "applicationFee": {
+        "general": "560",
+        "obc": "310",
+        "paymentMode": "Online / Debit Card / Credit Card / Net Banking / Upi",
+        "generalOtherState": "560",
+        "ewsObcScSt": "310",
+        "portalCharges": "60"
+      },
+      "ageLimit": {
+        "minAge": "18",
+        "maxAge": "33",
+        "ageAsOnDate": "06/10/2026",
+        "details": "Age : 38 Years for Female Age Relaxation Extra as per MPSEB MP Police Constable GD Recruitment Rules. MPSEB MP Police Constable Recruitment 2026"
+      },
+      "vacancyDetails": [
+        {
+          "postName": "Constable GD",
+          "totalPost": "6800",
+          "eligibility": "Class 10th High School Passed from Any Recognized Board in India. For ST Candidate : Class 8th Pass Only Height : Male : 168 CMS, Female : 155 CMS Chest Male Only : 81-86 for GD & 79-84 GD Special More Eligibility & PET Details Read the Notification.",
+          "tableHeading": "MPSEB MP Police Constable Recruitment 2026 : Vacancy Details Total : 7500 Post"
+        },
+        {
+          "postName": "Constable GD Special Armed Force (Male Only)",
+          "totalPost": "700",
+          "tableHeading": "MPSEB MP Police Constable Recruitment 2026 : Vacancy Details Total : 7500 Post"
+        },
+        {
+          "postName": "Constable GD – Special Armed Force",
+          "totalPost": "700",
+          "categoryWise": {
+            "UR": "189",
+            "EWS": "70",
+            "OBC": "98",
+            "SC": "112",
+            "ST": "140"
+          },
+          "tableHeading": "MPSEB MP Police Constable GD Notification 2026 : Category Wise Vacancy Details"
+        },
+        {
+          "postName": "Constable GD",
+          "totalPost": "6800",
+          "categoryWise": {
+            "UR": "1836",
+            "EWS": "680",
+            "OBC": "1836",
+            "SC": "1088",
+            "ST": "1360"
+          },
+          "tableHeading": "MPSEB MP Police Constable GD Notification 2026 : Category Wise Vacancy Details"
+        }
+      ],
+      "textSections": [
+        {
+          "section": "How to Fill MPESB MP Police Constable GD Recruitment Online Form 2026",
+          "content": "MPESB MP Police Constable GD Recruitment 2026 Candidate Can Apply Between 22/09/2026 to 06/10/2026 | Candidate Read the Notification Before Apply the Recruitment Application Form in MPSEB MP Police Constable General Duty Recruitment 2026. | Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form. | For the latest updates on , admit card, answer key, and result, always visit , the official website for in India ()."
+        }
+      ],
+      "importantLinks": [
+        {
+          "label": "Apply Online",
+          "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+        },
+        {
+          "label": "Download Revised Notice",
+          "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_2026_Rulebook_Revised_Page_01_15092026.pdf"
+        },
+        {
+          "label": "Download Full Notification",
+          "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_GD_2026_RuleBook_09092026.pdf"
+        },
+        {
+          "label": "Official Website",
+          "url": "https://esb.mp.gov.in/e_default.html"
+        }
+      ],
+      "additionalData": {
+        "howToApply": [
+          "MPESB MP Police Constable GD Recruitment 2026 Candidate Can Apply Between 22/09/2026 to 06/10/2026",
+          "Candidate Read the Notification Before Apply the Recruitment Application Form in MPSEB MP Police Constable General Duty Recruitment 2026",
+          "Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details",
+          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc",
+          "Before Submit the Application Form Must Check the Preview and All Column Carefully",
+          "If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed",
+          "Take A Print Out of Final Submitted Form",
+          "admit card, answer key, and result"
+        ],
+        "rs_60_include": "Portal Charges",
+        "height": "Male : 168 CMS, Female : 155 CMS",
+        "chest_male_only": "81-86 for GD & 79-84 GD Special"
+      },
+      "faq": [
+        {
+          "question": "When did the MPESB MPSEB MP Police Constable General Duty Recruitment 2026 Online Application Process Start?",
+          "answer": "The online application process started on 22/09/2026."
+        },
+        {
+          "question": "What is the Exam Date for MPSEB MP Police Constable General Duty Recruitment 2026?",
+          "answer": "The Examination will begin on 19/11/2026."
+        },
+        {
+          "question": "Where can I find the syllabus for the MPESB The Examination will begin on 19 November 2026 Examination?",
+          "answer": "The detailed syllabus and examination scheme are available in the official notification. Candidates are advised to read the notification carefully for complete details."
+        },
+        {
+          "question": "What is the last date to apply online for MPESB MPSEB MP Police Constable General Duty Recruitment 2026?",
+          "answer": "The last date to apply online is 06/10/2026."
+        },
+        {
+          "question": "What is the last date to MPESB MPSEB MP Police Constable General Duty pay the application fee?",
+          "answer": "Candidates can pay the application fee up to 06/10/2026."
+        }
+      ],
+      "meta": {
+        "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-mp-police-constable-gd-sep26/",
+        "scrapedAt": "2026-09-22T17:02:34",
+        "pageTitle": "MPESB MP Police Constable GD Online Form 2026 for 7500 Post",
+        "detectedCategory": "SR_Latest_Jobs",
+        "categoryOverridden": false,
+        "publishedTime": "2026-09-16T20:31:16+05:30",
+        "modifiedTime": "2026-09-16T20:31:36+05:30",
+        "articleSection": "2026",
+        "homepageSerial": 17
+      },
+      "_last_checked": "2026-09-22T11:32:34+00:00"
+    },
+    {
+      "category": "SR_Latest_Jobs",
+      "title": "Railway RRB Non Technical Popular Categories NTPC 10+2 Under Graduate 12th Level CEN 07/2026 Recruitment 2026 for 1688 Post",
+      "postDate": "22/09/2026",
+      "organization": "RRB",
+      "totalPost": "1688",
+      "shortInfo": "Indian Railway Railway Recruitment Board RRB Non Technical Popular Categories NTPC Under Graduate Level Recruitment CEN 07/2026. Those candidates who are Enrolled in This Vacancy Can Exam Answer Key. Read the notification for RRB NTPC 10+2 Level Commercial Cum Ticker Clerk, Train Clerk, Accounts Clerk Cum Typist, Junior Clerk Cum Typist Post 2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information",
+      "importantDates": {
+        "applicationBegin": "15/10/2026",
+        "lastDateApplyOnline": "13/11/2026",
+        "lastDatePayFee": "13/11/2026",
+        "formCorrectionDate": "Soon",
+        "examDate": "As Per Schedule",
+        "admitCardDate": "As Per Schedule",
+        "examCityDate": "As Per Schedule",
+        "resultDate": "As Per Schedule"
+      },
+      "applicationFee": {
+        "general": "500",
+        "sc": "250",
+        "ph": "250",
+        "paymentMode": "E Challan / Debit Card / Credit Card / Net Banking",
+        "scStFemale": "250",
+        "afterAppearTheStageIExamGeneralOb": "400"
+      },
+      "ageLimit": {
+        "minAge": "NA",
+        "maxAge": "NA"
+      },
+      "vacancyDetails": [
+        {
+          "postName": "Various Post Under Non Technical Popular Categories Under Graduate Level CEN 07/2026",
+          "totalPost": "1688",
+          "eligibility": "10+2 Intermediate Passed from a Recognized Board in India. More Eligibility Details Read the Notification.",
+          "tableHeading": "RRB NTPC 10+2 CEN 07/2026 Recruitment 2026: Vacancy Details"
+        }
+      ],
+      "dataTables": [
+        {
+          "heading": "RRB NTPC 10+2 CEN 07/2026 Recruitment 2026: Vacancy Details",
+          "headers": [
+            "Post Name",
+            "Total Post",
+            "RRB NTPC 10+2 CEN 07/2026 2026 Eligibility"
+          ],
+          "rows": [
+            [
+              "Commercial Cum Ticket Clerk",
+              "NA"
+            ],
+            [
+              "Accounts Clerk Cum Typist",
+              "NA"
+            ],
+            [
+              "Junior Clerk Cum Typist",
+              "NA"
+            ],
+            [
+              "Trains Clerk",
+              "NA"
+            ]
+          ]
+        }
+      ],
+      "textSections": [
+        {
+          "section": "How to Fill RRB NTPC 10+2 CEN 07/2026 Recruitment Online Form 2026",
+          "content": "RRB NTPC 10+2 CEN 07/2026 Recruitment for Various Post Candidate Can Apply Between 15/10/2026 to 13/11/2026. | Candidate Read the Notification Before Apply the Recruitment Application Form in RRB NTPC 10+2 Recruitment 2026. | Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form."
+        }
+      ],
+      "importantLinks": [
+        {
+          "label": "Apply Online",
+          "url": "https://www.rrbapply.gov.in/#/auth/home"
+        },
+        {
+          "label": "Official Website",
+          "url": "https://indianrailways.gov.in/"
+        }
+      ],
+      "additionalData": {
+        "howToApply": [
+          "RRB NTPC 10+2 CEN 07/2026 Recruitment for Various Post Candidate Can Apply Between 15/10/2026 to 13/11/2026",
+          "Candidate Read the Notification Before Apply the Recruitment Application Form in RRB NTPC 10+2 Recruitment 2026",
+          "Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details",
+          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc",
+          "Before Submit the Application Form Must Check the Preview and All Column Carefully",
+          "If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed",
+          "Take A Print Out of Final Submitted Form"
+        ],
+        "soon": "Correction / Modified Form"
+      },
+      "faq": [
+        {
+          "question": "RRB NTPC 10+2 CEN 07/2026 2026 Eligibility",
+          "answer": "Various Post Under Non Technical Popular Categories Under Graduate Level CEN 07/2026"
+        }
+      ],
+      "meta": {
+        "sourceUrl": "https://www.sarkariresult.com/railway/railway-rrb-ntpc-ug-level-07-2026/",
+        "scrapedAt": "2026-09-23T12:21:12",
+        "pageTitle": "Railway RRB NTPC 10+2 Under Graduate Online Form 2026",
+        "detectedCategory": "SR_Latest_Jobs",
+        "categoryOverridden": false,
+        "publishedTime": "2026-09-22T17:42:00+05:30",
+        "modifiedTime": "2026-09-22T17:42:02+05:30",
+        "articleSection": "Railway",
+        "homepageSerial": 2
+      },
+      "_last_checked": "2026-09-23T06:51:12+00:00"
+    },
+    {
+      "category": "SR_Latest_Jobs",
+      "title": "Bihar School Teacher TRE 4.0 Recruitment 2026 Online Form for 32388 Post",
+      "postDate": "22/09/2026",
+      "organization": "BPSC",
+      "totalPost": "32388",
+      "shortInfo": "Bihar Public Service Commission (BPSC) School Teacher TRE 4.0 Recruitment 2026. Those candidates who are interested in this BPSC School Teacher Primary, Middle, Secondary, TGT, PGT ( for Class 1 to 5, Class 6 to 8, Class 9 to 10, Class 11 to 12 and Special School Teacher for Class 9 to 10 under Education Department and (II) for Class 1 to 5, Class 6 to 10 and Class 11 to 12 under SC & ST Welfare Dept., Govt of Bihar. recruitment can Apply Online Date Postponed. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information",
+      "importantDates": {
+        "applicationBegin": "25/09/2026",
+        "lastDateApplyOnline": "25/10/2026",
+        "lastDatePayFee": "As per Schedule",
+        "examDate": "As per Schedule"
+      },
+      "applicationFee": {
+        "general": "100",
+        "sc": "100",
+        "paymentMode": "Online / Offline",
+        "generalObcOtherState": "100",
+        "scStPh": "100"
+      },
+      "ageLimit": {
+        "minAge": "18",
+        "maxAge": "37"
+      },
+      "vacancyDetails": [
+        {
+          "postName": "Primary School Teacher Class 1-5",
+          "totalPost": "3847",
+          "eligibility": "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education OR Senior Secondary with 45% Marks and 2 Year Diploma in Elementary Education (AS PER NCTE Norms 2002) OR Senior Secondary with 50% Marks and 4 Year B.L.Ed Course OR Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education (Special) OR Bachelor Degree in Any Stream with 2 Year Diploma in Elementary Education CTET / Bihar STET Paper I Exam Passed / Appearing More Eligibility Read the Notification.",
+          "tableHeading": "Bihar School Teacher TRE 4.0 Exam 2026 : Vacancy Details Total : 32388 Post"
+        },
+        {
+          "postName": "Middle School Teacher Class 6-8",
+          "totalPost": "8563",
+          "eligibility": "Bachelor Degree with 2 Year Diploma in Elementary Education OR Bachelor / Master Degree with 50% Marks with B.Ed OR Bachelor Degree with 45% Marks and B.Ed (NCTE Norms) OR Bachelor Degree with 50% Marks and BA BED and B.Sc Ed OR Bachelor Degree with 50% Marks and B.Ed Special OR Master Degree with 55% Marks and 3 Year B.Ed – M.Ed Course. CTET / Bihar STET Paper II Exam Passed / Appearing More Eligibility Read the Notification.",
+          "tableHeading": "Bihar School Teacher TRE 4.0 Exam 2026 : Vacancy Details Total : 32388 Post"
+        },
+        {
+          "postName": "TGT Teacher Class 9-10",
+          "totalPost": "3877",
+          "eligibility": "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms) and B.Ed Degree OR 4 Year Degree in BAEd / BScEd STET Paper I Exam Passed / Appearing More Eligibility Read the Notification.",
+          "tableHeading": "Bihar School Teacher TRE 4.0 Exam 2026 : Vacancy Details Total : 32388 Post"
+        },
+        {
+          "postName": "PGT Teacher Class 11-12",
+          "totalPost": "16101",
+          "eligibility": "Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms) and B.Ed Degree OR Master Degree in Related Subject with 4 Year Degree in BAEd / BScEd OR Master Degree with 55% Marks and B.Ed – Med 3 Year Degree. STET Paper II Exam Passed / Appearing More Eligibility Read the Notification.",
+          "tableHeading": "Bihar School Teacher TRE 4.0 Exam 2026 : Vacancy Details Total : 32388 Post"
+        }
+      ],
+      "subjectWiseVacancy": [
+        {
+          "subject": "General",
+          "totalPost": "1224"
+        },
+        {
+          "subject": "Urdu",
+          "totalPost": "108"
+        },
+        {
+          "subject": "Bangla",
+          "totalPost": "03"
+        },
+        {
+          "subject": "Math & Science",
+          "totalPost": "752"
+        },
+        {
+          "subject": "Social Science",
+          "totalPost": "530"
+        },
+        {
+          "subject": "Hindi",
+          "totalPost": "274"
+        },
+        {
+          "subject": "English",
+          "totalPost": "513"
+        },
+        {
+          "subject": "Sanskrit",
+          "totalPost": "200"
+        },
+        {
+          "subject": "Urdu",
+          "totalPost": "243"
+        },
+        {
+          "subject": "Hindi",
+          "totalPost": "138"
+        },
+        {
+          "subject": "English",
+          "totalPost": "223"
+        },
+        {
+          "subject": "Science",
+          "totalPost": "206"
+        },
+        {
+          "subject": "Math",
+          "totalPost": "235"
+        },
+        {
+          "subject": "Social Science",
+          "totalPost": "308"
+        },
+        {
+          "subject": "Sanskrit",
+          "totalPost": "61"
+        },
+        {
+          "subject": "Urdu",
+          "totalPost": "124"
+        },
+        {
+          "subject": "Physical Education",
+          "totalPost": "21"
+        },
+        {
+          "subject": "Music",
+          "totalPost": "0"
+        },
+        {
+          "subject": "Zoology",
+          "totalPost": "124"
+        },
+        {
+          "subject": "Botany",
+          "totalPost": "185"
+        },
+        {
+          "subject": "Chemistry",
+          "totalPost": "800"
+        },
+        {
+          "subject": "11-12",
+          "totalPost": "151"
+        },
+        {
+          "subject": "Physics",
+          "totalPost": "287"
+        },
+        {
+          "subject": "Economics",
+          "totalPost": "58"
+        },
+        {
+          "subject": "Geography",
+          "totalPost": "72"
+        },
+        {
+          "subject": "History",
+          "totalPost": "274"
+        },
+        {
+          "subject": "Home Science",
+          "totalPost": "103"
+        },
+        {
+          "subject": "Music",
+          "totalPost": "175"
+        },
+        {
+          "subject": "Philosophy",
+          "totalPost": "13"
+        },
+        {
+          "subject": "Political Science",
+          "totalPost": "228"
+        },
+        {
+          "subject": "Psychology",
+          "totalPost": "160"
+        },
+        {
+          "subject": "Sociology",
+          "totalPost": "94"
+        },
+        {
+          "subject": "Accountancy",
+          "totalPost": "30"
+        },
+        {
+          "subject": "Business Studies",
+          "totalPost": "26"
+        },
+        {
+          "subject": "Entrepreneurship",
+          "totalPost": "22"
+        },
+        {
+          "subject": "Computer Science",
+          "totalPost": "213"
+        },
+        {
+          "subject": "English",
+          "totalPost": "313"
+        },
+        {
+          "subject": "Hindi",
+          "totalPost": "215"
+        },
+        {
+          "subject": "Sanskrit",
+          "totalPost": "126"
+        },
+        {
+          "subject": "11-12",
+          "totalPost": "183"
+        }
+      ],
+      "textSections": [
+        {
+          "section": "How to Fill BPSC School Teacher TRE 4.0 Online Form 2026",
+          "content": "Bihar Public Service Commission BPSC Are Issued Primary Teacher, Trained Graduate Teacher TGT & Post Graduate Teacher PGT Recruitment Notification 2026 and Invited Online Application Form for the BPSC School Teacher Exam 2026 TRE IV Candidate Can Apply Online for As per Schedule. | Candidate Read the Notification Before Apply the BPSC Latest School Teacher Phase IV Recruitment 2026Application Form in Recruitment Latest Job Section. | Kindly Check and Collect the All Document – Hand Writing, Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID, Thumb, Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form."
+        }
+      ],
+      "importantLinks": [
+        {
+          "label": "Apply Online",
+          "url": "https://bpsconline.bihar.gov.in/candidate/login"
+        },
+        {
+          "label": "Download TR4 Form Start Notice",
+          "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-Probable-Date-of-Online-Application-TRE-4.0Date_BPSC-20260901-lavk2s.pdf"
+        },
+        {
+          "label": "Download TRE 4 Postponed Notice",
+          "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-142026-TRE-4.0-Online-Application-Postponed_BPSC-20260831-yldqfj.pdf"
+        },
+        {
+          "label": "Download Short Notice Dt 11/02/2026",
+          "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Press-Release-TRE-4.0_BPSC-20260211-am7sv1.pdf"
+        },
+        {
+          "label": "Official Website",
+          "url": "https://bpsc.bihar.gov.in/"
+        },
+        {
+          "label": "Download Syllabus (Pre / Mains)",
+          "url": "https://www.sarkariresult.com/wp-content/uploads/2026/08/bpsc_Syllabus_TRE_SarkariResult.pdf"
+        },
+        {
+          "label": "Download Full Notification",
+          "url": "https://doc.sarkariresults.org.in/Bihar_TRE_4_Full_Detailed_Notification.pdf"
+        },
+        {
+          "label": "Download STET 2026 Appearing Candidate Form",
+          "url": "https://doc.sarkariresults.org.in/Bihar_STET_Self_Declaration_Format_Form_Download.pdf"
+        }
+      ],
+      "additionalData": {
+        "howToApply": [
+          "Candidates planning to apply for BPSC TRE 4.0 should complete BPSC OTR registration immediately to avoid delays when applications open",
+          "Bihar STET Appearing Candidate Are Eligible to Fill Form. (Appearing Candidate Must be Uploaded STET Declaration Form)",
+          "While applying, BSEB Unique ID number has to be written in place of Bihar STET Result Card Number",
+          "Central Teacher Eligibility Test CTET candidates will fill the serial number mentioned in the certificate/mark sheet in the form",
+          "Do Not Need to Send Application Form to BPSC",
+          "More Details Must Read the BPSC TRE 4.0 Notification",
+          "Bihar Public Service Commission BPSC Are Issued Primary Teacher, Trained Graduate Teacher TGT & Post Graduate Teacher PGT Recruitment Notification 2026 and Invited Online Application Form for the BPSC School Teacher Exam 2026 TRE IV Candidate Can Apply Online for As per Schedule",
+          "Candidate Read the Notification Before Apply the BPSC Latest School Teacher Phase IV Recruitment 2026Application Form in Recruitment Latest Job Section",
+          "Kindly Check and Collect the All Document – Hand Writing, Eligibility, ID Proof, Address Details, Basic Details",
+          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID, Thumb, Proof, Etc",
+          "Before Submit the Application Form Must Check the Preview and All Column Carefully",
+          "If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed",
+          "Take A Print Out of Final Submitted Form"
+        ]
+      },
+      "faq": [
+        {
+          "question": "Bihar School Teacher Eligibility TRE 4.0",
+          "answer": "Primary School Teacher Class 1-5"
+        }
+      ],
+      "meta": {
+        "sourceUrl": "https://www.sarkariresult.com/bihar/bpsc-tre-4-2026/",
+        "scrapedAt": "2026-09-23T12:21:13",
+        "pageTitle": "Bihar BPSC School Teacher TRE 4 Online Form 2026",
+        "detectedCategory": "SR_Latest_Jobs",
+        "categoryOverridden": false,
+        "publishedTime": "2026-09-22T17:32:19+05:30",
+        "modifiedTime": "2026-09-22T17:32:24+05:30",
+        "articleSection": "Bihar",
+        "homepageSerial": 3
+      },
+      "_last_checked": "2026-09-23T06:51:13+00:00"
+    },
     {
       "category": "SR_Latest_Jobs",
       "title": "IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Apply Online for 13706 Post",
@@ -3410,148 +3952,6 @@
     },
     {
       "category": "SR_Latest_Jobs",
-      "title": "MPESB MP Police Constable General Duty Recruitment 2026 Apply Online for 7500 Post",
-      "postDate": "16/09/2026",
-      "organization": "MPESB",
-      "totalPost": "7500",
-      "shortInfo": "Madhya Pradesh Employee Selection Board (MPESB) has released MP Police Constable GD General Duty Recruitment Notification 2026. Those candidates who are Interested in this MPESB MP Police Constable GD Recruitment Exam 2026 can Apply Online from 22/09/2026 to 06/10/2026. Read the notification for recruitment eligibility, post information, selection procedure, Practice Test, pay scale and all other information",
-      "importantDates": {
-        "applicationBegin": "22/09/2026",
-        "lastDateApplyOnline": "06/10/2026",
-        "lastDatePayFee": "06/10/2026",
-        "formCorrectionDate": "11/10/2026",
-        "examDate": "19/11/2026",
-        "admitCardDate": "Before Exam",
-        "answerKeyDate": "After Exam",
-        "resultDate": "Notified Soon"
-      },
-      "applicationFee": {
-        "general": "560",
-        "obc": "310",
-        "paymentMode": "Online / Debit Card / Credit Card / Net Banking / Upi",
-        "generalOtherState": "560",
-        "ewsObcScSt": "310",
-        "portalCharges": "60"
-      },
-      "ageLimit": {
-        "minAge": "18",
-        "maxAge": "33",
-        "ageAsOnDate": "06/10/2026",
-        "details": "Age : 38 Years for Female Age Relaxation Extra as per MPSEB MP Police Constable GD Recruitment Rules. MPSEB MP Police Constable Recruitment 2026"
-      },
-      "vacancyDetails": [
-        {
-          "postName": "Constable GD",
-          "totalPost": "6800",
-          "eligibility": "Class 10th High School Passed from Any Recognized Board in India. For ST Candidate : Class 8th Pass Only Height : Male : 168 CMS, Female : 155 CMS Chest Male Only : 81-86 for GD & 79-84 GD Special More Eligibility & PET Details Read the Notification.",
-          "tableHeading": "MPSEB MP Police Constable Recruitment 2026 : Vacancy Details Total : 7500 Post"
-        },
-        {
-          "postName": "Constable GD Special Armed Force (Male Only)",
-          "totalPost": "700",
-          "tableHeading": "MPSEB MP Police Constable Recruitment 2026 : Vacancy Details Total : 7500 Post"
-        },
-        {
-          "postName": "Constable GD – Special Armed Force",
-          "totalPost": "700",
-          "categoryWise": {
-            "UR": "189",
-            "EWS": "70",
-            "OBC": "98",
-            "SC": "112",
-            "ST": "140"
-          },
-          "tableHeading": "MPSEB MP Police Constable GD Notification 2026 : Category Wise Vacancy Details"
-        },
-        {
-          "postName": "Constable GD",
-          "totalPost": "6800",
-          "categoryWise": {
-            "UR": "1836",
-            "EWS": "680",
-            "OBC": "1836",
-            "SC": "1088",
-            "ST": "1360"
-          },
-          "tableHeading": "MPSEB MP Police Constable GD Notification 2026 : Category Wise Vacancy Details"
-        }
-      ],
-      "textSections": [
-        {
-          "section": "How to Fill MPESB MP Police Constable GD Recruitment Online Form 2026",
-          "content": "MPESB MP Police Constable GD Recruitment 2026 Candidate Can Apply Between 22/09/2026 to 06/10/2026 | Candidate Read the Notification Before Apply the Recruitment Application Form in MPSEB MP Police Constable General Duty Recruitment 2026. | Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form. | For the latest updates on , admit card, answer key, and result, always visit , the official website for in India ()."
-        }
-      ],
-      "importantLinks": [
-        {
-          "label": "Apply Online",
-          "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
-        },
-        {
-          "label": "Download Revised Notice",
-          "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_2026_Rulebook_Revised_Page_01_15092026.pdf"
-        },
-        {
-          "label": "Download Full Notification",
-          "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_GD_2026_RuleBook_09092026.pdf"
-        },
-        {
-          "label": "Official Website",
-          "url": "https://esb.mp.gov.in/e_default.html"
-        }
-      ],
-      "additionalData": {
-        "howToApply": [
-          "MPESB MP Police Constable GD Recruitment 2026 Candidate Can Apply Between 22/09/2026 to 06/10/2026",
-          "Candidate Read the Notification Before Apply the Recruitment Application Form in MPSEB MP Police Constable General Duty Recruitment 2026",
-          "Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details",
-          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc",
-          "Before Submit the Application Form Must Check the Preview and All Column Carefully",
-          "If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed",
-          "Take A Print Out of Final Submitted Form",
-          "admit card, answer key, and result"
-        ],
-        "rs_60_include": "Portal Charges",
-        "height": "Male : 168 CMS, Female : 155 CMS",
-        "chest_male_only": "81-86 for GD & 79-84 GD Special"
-      },
-      "faq": [
-        {
-          "question": "When did the MPESB MPSEB MP Police Constable General Duty Recruitment 2026 Online Application Process Start?",
-          "answer": "The online application process started on 22/09/2026."
-        },
-        {
-          "question": "What is the Exam Date for MPSEB MP Police Constable General Duty Recruitment 2026?",
-          "answer": "The Examination will begin on 19/11/2026."
-        },
-        {
-          "question": "Where can I find the syllabus for the MPESB The Examination will begin on 19 November 2026 Examination?",
-          "answer": "The detailed syllabus and examination scheme are available in the official notification. Candidates are advised to read the notification carefully for complete details."
-        },
-        {
-          "question": "What is the last date to apply online for MPESB MPSEB MP Police Constable General Duty Recruitment 2026?",
-          "answer": "The last date to apply online is 06/10/2026."
-        },
-        {
-          "question": "What is the last date to MPESB MPSEB MP Police Constable General Duty pay the application fee?",
-          "answer": "Candidates can pay the application fee up to 06/10/2026."
-        }
-      ],
-      "meta": {
-        "sourceUrl": "https://www.sarkariresult.com/2026/mpesb-mp-police-constable-gd-sep26/",
-        "scrapedAt": "2026-09-22T17:02:34",
-        "pageTitle": "MPESB MP Police Constable GD Online Form 2026 for 7500 Post",
-        "detectedCategory": "SR_Latest_Jobs",
-        "categoryOverridden": false,
-        "publishedTime": "2026-09-16T20:31:16+05:30",
-        "modifiedTime": "2026-09-16T20:31:36+05:30",
-        "articleSection": "2026",
-        "homepageSerial": 17
-      },
-      "_last_checked": "2026-09-22T11:32:34+00:00"
-    },
-    {
-      "category": "SR_Latest_Jobs",
       "title": "Uttar Pradesh Teacher Eligibility Test UPESSC UP Special TET 2026 Apply Online",
       "postDate": "18/09/2026",
       "organization": "UPESSC",
@@ -5978,117 +6378,102 @@
     },
     {
       "category": "SR_Latest_Jobs",
-      "title": "UKPSC Uttarakhand Combined State Civil Upper Subordinate Service Exam 2026 : Apply Online for 67 Post",
-      "postDate": "10/09/2026",
-      "organization": "UKPSC",
-      "totalPost": "67",
-      "shortInfo": "Uttarakhand Public Service Commission (UKPSC) has released the notification for the recruitment of Combined State Civil Upper Subordinate Service Exam 2026. Those Candidates Are Interested to the Following UKPSC State Service Pre 2026 Vacancy Can Apply Online from 09/09/2026 to 29/09/2026. See the advertisement for information related to age limit, syllabus, Department wise post, selection procedure, pay scale in UKPSC Combined State Civil Upper Subordinate Service Exam Recruitment 2026",
+      "title": "Uttar Pradesh Education Service Selection Commission UPESSC UP Super TET (Assistant Teaching) Recruitment 2026 : Primary and Junior Level Syllabus",
+      "postDate": "18/09/2026",
+      "organization": "TET",
+      "shortInfo": "Uttar Pradesh Education Service Selection Commission Released Assistant Teacher (Super TET) Exam Syllabus 2026. Those candidates who are interested in this UP Upcoming Assistant Teacher Super TET Examination 2026 Can Check and Download the Syllabus for Class I to V and Class VI to VIII Vacancy. Read the notification for Recruitment eligibility, post information, selection procedure, age limit, Post list, Vacancy details, and all other information",
       "importantDates": {
-        "applicationBegin": "09/09/2026",
-        "lastDateApplyOnline": "29/09/2026",
-        "lastDatePayFee": "29/09/2026",
-        "formCorrectionDate": "07-16 October 2026",
+        "applicationBegin": "As per Schedule",
+        "lastDateApplyOnline": "As Per Schedule",
+        "lastDatePayFee": "As per Schedule",
         "examDate": "As per Schedule",
-        "admitCardDate": "Before Exam"
+        "admitCardDate": "Before Exam",
+        "upSuperTetSyllabus": "01/09/2026"
       },
       "applicationFee": {
-        "general": "166",
-        "sc": "76",
-        "ph": "16",
-        "paymentMode": "Online / Offline",
-        "scStCandidatesForUttarakhand": "76",
-        "phCandidates": "16"
+        "paymentMode": "Debit Card / Credit Card / Net Banking / Upi / Offline"
       },
       "ageLimit": {
         "minAge": "21",
-        "maxAge": "42",
-        "ageAsOnDate": "01/07/2026"
+        "maxAge": "40"
       },
       "vacancyDetails": [
         {
-          "postName": "Combined State Civil Upper Subordinate Service Exam 2026",
-          "totalPost": "67",
-          "eligibility": "Bachelor Degree in Any Stream in Any Recognized University in India. For More Details Read the Notification.",
-          "tableHeading": "UKPSC State"
+          "postName": "Assistant Teacher Class I to V",
+          "eligibility": "Bachelor Degree in Any Stream with UPTET / CTET Exam Passed DELED / BTC Exam Passed. More Eligibility Details Available Soon",
+          "tableHeading": "UPESSC UP Super TET Assistant Teacher Recruitment 2026 : Vacancy Details"
         },
         {
-          "postName": "UKPSC Upper PCS Pre",
-          "categoryWise": {
-            "UR": "37",
-            "OBC": "11",
-            "EWS": "06",
-            "SC": "13",
-            "ST": "0"
-          },
-          "tableHeading": "UKPSC Civil Services Pre Recruitment 2026 : Category Wise Vacancy Details Post Name UR OBC EWS SC ST Total Post UKPSC Upper PCS Pre 37 11 06 13 0 67 Post Post Name UR OBC EWS SC ST Total Post UKPSC Upper PCS Pre 37 11 06 13 0 67 Post"
+          "postName": "Assistant Teacher Class VI to VIII",
+          "eligibility": "Bachelor Degree in Any Stream with UPTET / CTET Exam Passed BEd Exam Passed. More Eligibility Details Available Soon",
+          "tableHeading": "UPESSC UP Super TET Assistant Teacher Recruitment 2026 : Vacancy Details"
         }
       ],
       "textSections": [
         {
-          "section": "How to Fill UKPSC Combined State Civil Upper Subordinate Service Online Form 2026",
-          "content": "Uttarakhand Public Service Commission UKPSC Combined State Civil Upper Subordinate Service Examination 2026. Latest Jobs Recruitment 2026. Candidate Can Apply Between 09/09/2026 to 29/09/2026 | Candidate Read the Notification Before Apply the UKPSC Latest Pre Recruitment 2026 Application Form in Recruitment Latest Job Section. | Kindly Check and Collect the All Document – Hand Writing, Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID, Thumb, Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form. | For the latest updates on , admit card, answer key, and result, always visit , the official website for in India ()."
+          "section": "How to Fill UPESSC UP Super TET Recruitment Online Form 2026",
+          "content": "Uttar Pradesh Education Service Selection Commission for the posts of Super TET (Assistant Teacher) Primary and Junior Level Exam 2026. Candidate Can Apply Between As per Schedule. Candidate Read the Notification Before Apply the Recruitment Application Form in UP Super TET Recruitment 2026. | Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form."
         }
       ],
       "importantLinks": [
         {
-          "label": "Apply Online",
-          "url": "https://pscuk.net.in/notification?postid=eyJpdiI6IjRqZjlzMVczSENlYVRIaFQiLCJ2YWx1ZSI6IjNHNHZpN289IiwibWFjIjoiIiwidGFnIjoiVTRndWRNbkNuMUsrNDZJNlVjTlR6QT09In0="
-        },
-        {
           "label": "Official Website",
-          "url": "https://psc.uk.gov.in/"
+          "url": "https://upessc.up.gov.in/"
         },
         {
-          "label": "Download Notification",
-          "url": "https://doc.sarkariresults.org.in/UKPSC_Pre_2026_Notification_SarkariResult_Com.pdf"
+          "label": "Class I to V",
+          "url": "https://doc.sarkariresults.org.in/UP_SUper_TET_Exam_Syllabus.pdf"
+        },
+        {
+          "label": "Class VI to VIII",
+          "url": "https://doc.sarkariresults.org.in/UP_SUper_TET_Junior_Exam_Syllabus.pdf"
         }
       ],
       "additionalData": {
         "howToApply": [
-          "Uttarakhand Public Service Commission UKPSC Combined State Civil Upper Subordinate Service Examination 2026. Latest Jobs Recruitment 2026. Candidate Can Apply Between 09/09/2026 to 29/09/2026",
-          "Candidate Read the Notification Before Apply the UKPSC Latest Pre Recruitment 2026 Application Form in Recruitment Latest Job Section",
-          "Kindly Check and Collect the All Document – Hand Writing, Eligibility, ID Proof, Address Details, Basic Details",
-          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID, Thumb, Proof, Etc",
+          "Uttar Pradesh Education Service Selection Commission for the posts of Super TET (Assistant Teacher) Primary and Junior Level Exam 2026. Candidate Can Apply Between As per Schedule. Candidate Read the Notification Before Apply the Recruitment Application Form in UP Super TET Recruitment 2026",
+          "Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details",
+          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc",
           "Before Submit the Application Form Must Check the Preview and All Column Carefully",
           "If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed",
-          "Take A Print Out of Final Submitted Form",
-          "admit card, answer key, and result"
-        ]
+          "Take A Print Out of Final Submitted Form"
+        ],
+        "september_october_2026": "The online application process started on ."
       },
       "faq": [
         {
-          "question": "When did the UKPSC Combined State Civil Upper Subordinate Service Online Form 2026?",
-          "answer": "The online application process started on 09 September 2026."
+          "question": "When did the UPESSC UP Super TET Assistant Teacher 2026 Online Application Process Start?",
+          "answer": "The online application process started on September / October 2026."
         },
         {
-          "question": "What is the Exam Date for UKPSC Pre Recruitment 2026?",
-          "answer": "The Examination will be conducted in As Per Schedule."
+          "question": "What is the Exam Date for UPESSC UP Super TET Assistant Teacher 2026Online Form 2026?",
+          "answer": "The Examination will Conducted on As per Schedule."
         },
         {
-          "question": "Where can I find the syllabus for the UKPSC Combined State Civil Upper Subordinate Service Pre & Mains Exam Examination 2026?",
+          "question": "Where can I find the syllabus for the UPESSC UP Super TET Assistant Teacher 2026 Primary Level Class 1-6 and Junior Level Class 6-8 Examination?",
           "answer": "The detailed syllabus and examination scheme are available in the official notification. Candidates are advised to read the notification carefully for complete details."
         },
         {
-          "question": "What is the last date to apply online for UKPSC Combined State Civil Upper Subordinate Service Recruitment 2026?",
-          "answer": "The last date to apply online is 29 September 2026."
+          "question": "What is the last date to apply online for UPESSC UP Super TET Assistant Teacher Online Form 2026?",
+          "answer": "The last date to apply online is As per Schedule."
         },
         {
-          "question": "What is the last date to pay the application fee?",
-          "answer": "Candidates can pay the application fee up to 29 September 2026."
+          "question": "What is the last date to UPESSC UP Super TET Assistant Teacher 2026 pay the application fee?",
+          "answer": "Candidates can pay the application fee up to As per Schedule."
         }
       ],
       "meta": {
-        "sourceUrl": "https://www.sarkariresult.com/2026/ukpsc-pre-2026/",
-        "scrapedAt": "2026-09-22T17:02:45",
-        "pageTitle": "UKPSC Civil Services Pre 2026 Online Form for 67 Post",
+        "sourceUrl": "https://www.sarkariresult.com/2026/upessc-up-super-tet-2026/",
+        "scrapedAt": "2026-09-22T17:02:48",
+        "pageTitle": "UPESSC UP Super TET Assistant Teacher Online Form 2026",
         "detectedCategory": "SR_Latest_Jobs",
         "categoryOverridden": false,
-        "publishedTime": "2026-09-10T16:58:08+05:30",
-        "modifiedTime": "2026-09-10T16:58:10+05:30",
+        "publishedTime": "2026-09-18T17:16:04+05:30",
+        "modifiedTime": "2026-09-18T17:16:05+05:30",
         "articleSection": "2026",
-        "homepageSerial": 33
+        "homepageSerial": 38
       },
-      "_last_checked": "2026-09-22T11:32:45+00:00"
+      "_last_checked": "2026-09-22T11:32:48+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -6225,105 +6610,6 @@
         "homepageSerial": 34
       },
       "_last_checked": "2026-09-22T11:32:46+00:00"
-    },
-    {
-      "category": "SR_Latest_Jobs",
-      "title": "Uttar Pradesh Education Service Selection Commission UPESSC UP Super TET (Assistant Teaching) Recruitment 2026 : Primary and Junior Level Syllabus",
-      "postDate": "18/09/2026",
-      "organization": "TET",
-      "shortInfo": "Uttar Pradesh Education Service Selection Commission Released Assistant Teacher (Super TET) Exam Syllabus 2026. Those candidates who are interested in this UP Upcoming Assistant Teacher Super TET Examination 2026 Can Check and Download the Syllabus for Class I to V and Class VI to VIII Vacancy. Read the notification for Recruitment eligibility, post information, selection procedure, age limit, Post list, Vacancy details, and all other information",
-      "importantDates": {
-        "applicationBegin": "As per Schedule",
-        "lastDateApplyOnline": "As Per Schedule",
-        "lastDatePayFee": "As per Schedule",
-        "examDate": "As per Schedule",
-        "admitCardDate": "Before Exam",
-        "upSuperTetSyllabus": "01/09/2026"
-      },
-      "applicationFee": {
-        "paymentMode": "Debit Card / Credit Card / Net Banking / Upi / Offline"
-      },
-      "ageLimit": {
-        "minAge": "21",
-        "maxAge": "40"
-      },
-      "vacancyDetails": [
-        {
-          "postName": "Assistant Teacher Class I to V",
-          "eligibility": "Bachelor Degree in Any Stream with UPTET / CTET Exam Passed DELED / BTC Exam Passed. More Eligibility Details Available Soon",
-          "tableHeading": "UPESSC UP Super TET Assistant Teacher Recruitment 2026 : Vacancy Details"
-        },
-        {
-          "postName": "Assistant Teacher Class VI to VIII",
-          "eligibility": "Bachelor Degree in Any Stream with UPTET / CTET Exam Passed BEd Exam Passed. More Eligibility Details Available Soon",
-          "tableHeading": "UPESSC UP Super TET Assistant Teacher Recruitment 2026 : Vacancy Details"
-        }
-      ],
-      "textSections": [
-        {
-          "section": "How to Fill UPESSC UP Super TET Recruitment Online Form 2026",
-          "content": "Uttar Pradesh Education Service Selection Commission for the posts of Super TET (Assistant Teacher) Primary and Junior Level Exam 2026. Candidate Can Apply Between As per Schedule. Candidate Read the Notification Before Apply the Recruitment Application Form in UP Super TET Recruitment 2026. | Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details. | Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc. | Before Submit the Application Form Must Check the Preview and All Column Carefully. | If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed. | Take A Print Out of Final Submitted Form."
-        }
-      ],
-      "importantLinks": [
-        {
-          "label": "Official Website",
-          "url": "https://upessc.up.gov.in/"
-        },
-        {
-          "label": "Class I to V",
-          "url": "https://doc.sarkariresults.org.in/UP_SUper_TET_Exam_Syllabus.pdf"
-        },
-        {
-          "label": "Class VI to VIII",
-          "url": "https://doc.sarkariresults.org.in/UP_SUper_TET_Junior_Exam_Syllabus.pdf"
-        }
-      ],
-      "additionalData": {
-        "howToApply": [
-          "Uttar Pradesh Education Service Selection Commission for the posts of Super TET (Assistant Teacher) Primary and Junior Level Exam 2026. Candidate Can Apply Between As per Schedule. Candidate Read the Notification Before Apply the Recruitment Application Form in UP Super TET Recruitment 2026",
-          "Kindly Check and Collect the All Document – Eligibility, ID Proof, Address Details, Basic Details",
-          "Kindly Ready Scan Document Related to Recruitment Form – Photo, Sign, ID Proof, Etc",
-          "Before Submit the Application Form Must Check the Preview and All Column Carefully",
-          "If Candidate Required to Paying the Application Fee Must Submit. If You have Not the Required Application Fees Your Form is Not Completed",
-          "Take A Print Out of Final Submitted Form"
-        ],
-        "september_october_2026": "The online application process started on ."
-      },
-      "faq": [
-        {
-          "question": "When did the UPESSC UP Super TET Assistant Teacher 2026 Online Application Process Start?",
-          "answer": "The online application process started on September / October 2026."
-        },
-        {
-          "question": "What is the Exam Date for UPESSC UP Super TET Assistant Teacher 2026Online Form 2026?",
-          "answer": "The Examination will Conducted on As per Schedule."
-        },
-        {
-          "question": "Where can I find the syllabus for the UPESSC UP Super TET Assistant Teacher 2026 Primary Level Class 1-6 and Junior Level Class 6-8 Examination?",
-          "answer": "The detailed syllabus and examination scheme are available in the official notification. Candidates are advised to read the notification carefully for complete details."
-        },
-        {
-          "question": "What is the last date to apply online for UPESSC UP Super TET Assistant Teacher Online Form 2026?",
-          "answer": "The last date to apply online is As per Schedule."
-        },
-        {
-          "question": "What is the last date to UPESSC UP Super TET Assistant Teacher 2026 pay the application fee?",
-          "answer": "Candidates can pay the application fee up to As per Schedule."
-        }
-      ],
-      "meta": {
-        "sourceUrl": "https://www.sarkariresult.com/2026/upessc-up-super-tet-2026/",
-        "scrapedAt": "2026-09-22T17:02:48",
-        "pageTitle": "UPESSC UP Super TET Assistant Teacher Online Form 2026",
-        "detectedCategory": "SR_Latest_Jobs",
-        "categoryOverridden": false,
-        "publishedTime": "2026-09-18T17:16:04+05:30",
-        "modifiedTime": "2026-09-18T17:16:05+05:30",
-        "articleSection": "2026",
-        "homepageSerial": 38
-      },
-      "_last_checked": "2026-09-22T11:32:48+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -7065,7 +7351,7 @@
       ],
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/2026/upessc-principal-02-2026/",
-        "scrapedAt": "2026-09-20T12:05:56",
+        "scrapedAt": "2026-09-23T12:21:14",
         "pageTitle": "UPESSC UP Principal Admit Card 2026 for 111 Post",
         "detectedCategory": "SR_Admit_Card",
         "categoryOverridden": true,
@@ -7075,7 +7361,7 @@
         "homepageSerial": 45
       },
       "admitCardUrl": "https://admitcards.upessc.org/login",
-      "_last_checked": "2026-09-20T06:35:56+00:00"
+      "_last_checked": "2026-09-23T06:51:14+00:00"
     },
     {
       "category": "SR_Latest_Jobs",
@@ -17975,6 +18261,192 @@
     },
     {
       "category": "SR_Admit_Card",
+      "title": "Delhi DSSSB Various Post 2026 Admit Card September 2026, July 2026 Exam Answer Key, Exam Schedule September / October 2026",
+      "postDate": "18/09/2026",
+      "organization": "DSSSB",
+      "shortInfo": "Delhi Subordinate Service Selection Board (DSSSB) Are Recently Uploaded Exam Admit Card / Hall Ticket / Call Letter for the Various Recruitment 2017,2018,2019,2020,2021, 2022,2023, 2024, 2025, 2026. Those Candidates Are Enrolled with Any DSSSB Vacancies Can Download the Admit Card as per Schedule",
+      "importantDates": {
+        "examDate": "Skip to content"
+      },
+      "vacancyDetails": [
+        {
+          "postName": "Download Answer Key"
+        },
+        {
+          "postName": "Download Answer Key"
+        },
+        {
+          "postName": "Download Answer Key for April Exam"
+        }
+      ],
+      "textSections": [
+        {
+          "section": "DSSSB How to Download Admit Card 2026",
+          "content": "It is very easy to download Delhi DSSSB Admit Card / Call Letter. | DSSSB issues the admit card in two main ways. | First Method: In this method, you will have to enter your date of birth along with class 10 roll number, passing year and your password, after that you can directly download the admit card from the dashboard. | Second Method : In this method, you will have to enter the application number of the online application you had applied, along with you will also have to enter your date of birth, after that you will be entered in a dashboard, then you will see a tab above, in that you will get the link of generate admit card, click on it. But your admit card will be downloaded on your mobile / computer. | If you do not have the application number then you have to follow the first method and find your application number. | You can print the admit card in color or black and white print on A4 size paper. | Read all the instructions given in the admit card carefully before going to the exam."
+        }
+      ],
+      "importantLinks": [
+        {
+          "label": "Download Admit Card",
+          "url": "https://www.digialm.com/EForms/configuredHtml/1258/102404/login.html"
+        },
+        {
+          "label": "Download Exam Schedule",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0007_1.pdf"
+        },
+        {
+          "label": "Download Warden PET Exam Notice",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0005.pdf"
+        },
+        {
+          "label": "Download Answer Key",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/101323/login.html"
+        },
+        {
+          "label": "Download September Exam Schedule",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/examination_schedule_01_to_20_sep_1.pdf"
+        },
+        {
+          "label": "Download Answer Key February 2025 Exam",
+          "url": "https://cdn.digialm.com/EForms/configuredHtml/1258/97829/login.html"
+        },
+        {
+          "label": "Download Answer Key Notice",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img20260220_15013064.pdf"
+        },
+        {
+          "label": "Download PET/Skill Test Admit Card",
+          "url": "https://dsssbonline.nic.in/AdmitCardEntry.aspx"
+        },
+        {
+          "label": "Download Answer Key for April Exam",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/93619/login.html"
+        },
+        {
+          "label": "Nursing Officer Post Code 02/2024 Admit Card",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/90314/login.html"
+        },
+        {
+          "label": "Download SPA / PA Skill Test Exam Notice",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan20240718_0094_2.pdf"
+        },
+        {
+          "label": "Download Answer Key Various Post",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/89400/login.html"
+        },
+        {
+          "label": "Download Exam Date Various Post",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan20240610_0002_1.pdf"
+        },
+        {
+          "label": "Download (PA/SPA/JJA) Stage II Exam Date",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan20240515_0012_1.pdf"
+        },
+        {
+          "label": "Download Exam Date",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan20240214_0015.pdf"
+        },
+        {
+          "label": "Find Application No.",
+          "url": "https://dsssbonline.nic.in/"
+        },
+        {
+          "label": "Official Website",
+          "url": "http://dsssb.delhi.gov.in"
+        },
+        {
+          "label": "Notice",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0001_10.pdf"
+        },
+        {
+          "label": "Notice",
+          "url": "https://doc.sarkariresults.org.in/DSSSB_AnswerKey.pdf"
+        },
+        {
+          "label": "Exam 01-30 June 2026",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/100822/login.html"
+        },
+        {
+          "label": "POST CODES 812/24, 33/25, 36/25, 39/25, 34/25, 35/25",
+          "url": "https://www.digialm.com//EForms/configuredHtml/1258/97829/login.html"
+        },
+        {
+          "label": "Exam Date JUNE, JULY, AUGUST & 01 SEPTEMBER, 2026",
+          "url": "https://doc.sarkariresults.org.in/DSSSB_SarkariResult.Com_Exam_Date_Sep26notification_2.pdf"
+        },
+        {
+          "label": "Exam Date 16/02/2026 to 14/05/2026",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/97829/login.html"
+        },
+        {
+          "label": "Exam Date 16/02/2026 to 14/05/2026",
+          "url": "https://doc.sarkariresults.org.in/notification_for_during_feb_to_may_2026_1.pdf"
+        },
+        {
+          "label": "12 June 2025 Exam Date",
+          "url": "https://doc.sarkariresults.org.in/DSSSB_scan20250604_0434_1.pdf"
+        },
+        {
+          "label": "23-30 June 2025 & 01-09 July 2025 Exam Schedule",
+          "url": "https://doc.sarkariresults.org.in/DSSSB_JUNE_JUly_scan20250523_0305_1.pdf"
+        },
+        {
+          "label": "Notice",
+          "url": "https://doc.sarkariresults.org.in/DSSSB_AnswerKey_April_Exam.pdf"
+        },
+        {
+          "label": "05-07 May 2025 Exam Schedule",
+          "url": "https://doc.sarkariresults.org.in/scan20250326_0229_1%20(1).pdf"
+        },
+        {
+          "label": "01-24 April 2025, 06-08 & 22 June 2025 Exam Schedule",
+          "url": "https://doc.sarkariresults.org.in/DSSSB_Various_Post_Exam_Date_2025.pdf"
+        },
+        {
+          "label": "July 2024 Examination",
+          "url": "https://cdn.digialm.com/EForms/configuredHtml/1258/89918/login.html"
+        },
+        {
+          "label": "10-30 June 2024 Exam",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan20240517_0020_1.pdf"
+        },
+        {
+          "label": "March 2024 Exam",
+          "url": "https://cdn.digialm.com/EForms/configuredHtml/1258/88054/login.html"
+        },
+        {
+          "label": "02-31 March 2024 Exam",
+          "url": "https://cdn.digialm.com//EForms/configuredHtml/1258/88054/login.html"
+        },
+        {
+          "label": "February 2024",
+          "url": "https://cdn.digialm.com/EForms/configuredHtml/1258/87582/login.html"
+        },
+        {
+          "label": "06-18 February 2024 Exam Schedule",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan0005_6.pdf"
+        }
+      ],
+      "additionalData": {
+        "first_method": "In this method, you will have to enter your date of birth along with class 10 roll number, passing year and your password, after that you can directly download the admit card from the dashboard.",
+        "second_method": "In this method, you will have to enter the application number of the online application you had applied, along with you will also have to enter your date of birth, after that you will be entered in a dashboard, then you will see a tab above, in that you will get the link of generate admit card, click on it. But your admit card will be downloaded on your mobile / computer."
+      },
+      "meta": {
+        "sourceUrl": "https://www.sarkariresult.com/delhi/dsssb-admit-card-download/",
+        "scrapedAt": "2026-09-23T12:21:14",
+        "pageTitle": "DSSSB Delhi Admit Card September 2026 Exam",
+        "detectedCategory": "SR_Admit_Card",
+        "categoryOverridden": false,
+        "publishedTime": "2026-09-18T16:50:54+05:30",
+        "modifiedTime": "2026-09-18T16:50:57+05:30",
+        "articleSection": "Delhi",
+        "homepageSerial": 13
+      },
+      "admitCardUrl": "https://www.digialm.com/EForms/configuredHtml/1258/102404/login.html",
+      "_last_checked": "2026-09-23T06:51:14+00:00"
+    },
+    {
+      "category": "SR_Admit_Card",
       "title": "Join Indian Navy Agniveer SSR & MR 01/2027 & 02/2027 Batch INET 2026 Result",
       "postDate": "17/09/2026",
       "organization": "INET",
@@ -18772,8 +19244,8 @@
     },
     {
       "category": "SR_Admit_Card",
-      "title": "UPSSSC UP Excise Constable (Aabkari Sipahi) Recruitment 2026 Admit Card",
-      "postDate": "19/09/2026",
+      "title": "UPSSSC UP Excise Constable (Aabkari Sipahi) Recruitment 2026 Provisional Answer Key",
+      "postDate": "22/09/2026",
       "organization": "UPSSSC",
       "totalPost": "820",
       "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UP Excise Constable Advt No. 08-Exam/2026 Recruitment Notification. Those candidates who are Enrolled in this UPSSSC Excise Constable Vacancy 2026 can Check Exam City / Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information",
@@ -18834,6 +19306,10 @@
         }
       ],
       "importantLinks": [
+        {
+          "label": "Download Answer Key",
+          "url": "https://drive.google.com/file/d/18E2myzE4c8wpAM31ZvAeuWxxqClG9gzz/view"
+        },
         {
           "label": "Download Admit Card",
           "url": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=MAIN"
@@ -18906,22 +19382,22 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/upsssc/upsssc-excise-constable-08-exam2026/",
-        "scrapedAt": "2026-09-21T12:25:35",
-        "pageTitle": "UPSSSC UP Excise Constable Admit Card 2026",
-        "detectedCategory": "SR_Admit_Card",
-        "categoryOverridden": false,
-        "publishedTime": "2026-09-19T17:27:17+05:30",
-        "modifiedTime": "2026-09-19T17:27:19+05:30",
+        "scrapedAt": "2026-09-23T12:21:15",
+        "pageTitle": "UPSSSC UP Excise Constable Answer Key 2026",
+        "detectedCategory": "SR_Answer_Key",
+        "categoryOverridden": true,
+        "publishedTime": "2026-09-22T16:49:18+05:30",
+        "modifiedTime": "2026-09-22T16:49:21+05:30",
         "articleSection": "UPSSSC",
-        "homepageSerial": 15
+        "homepageSerial": 19
       },
-      "admitCardUrl": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=MAIN",
-      "_last_checked": "2026-09-21T06:55:35+00:00"
+      "answerKeyUrl": "https://drive.google.com/file/d/18E2myzE4c8wpAM31ZvAeuWxxqClG9gzz/view",
+      "_last_checked": "2026-09-23T06:51:15+00:00"
     },
     {
       "category": "SR_Admit_Card",
-      "title": "UPSSSC Pharmaceutical Pharmacists Ayurvedic Recruitment 2024 Admit Card 2026 for 1002 Post",
-      "postDate": "16/09/2026",
+      "title": "UPSSSC Pharmaceutical Pharmacists Ayurvedic Recruitment 2024 Answer Key",
+      "postDate": "22/09/2026",
       "organization": "UPSSSC",
       "totalPost": "1002",
       "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has released Pharmaceutical Ayurvedic Advt No. 01-Exam/2024 Recruitment Notification. Those candidates who are Enrolled in this UPSSSC Pharmaceutical Ayurvedic Vacancy 2024 can Check the Exam City / Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, Practice Test, pay scale and all other information",
@@ -18933,7 +19409,8 @@
         "examDate": "20/09/2026",
         "admitCardDate": "Before Exam",
         "resultDate": "28/07/2026",
-        "examCityDate": "11/09/2026"
+        "examCityDate": "11/09/2026",
+        "answerKeyDate": "22/09/2026"
       },
       "applicationFee": {
         "general": "25",
@@ -18964,7 +19441,7 @@
             "SC": "291",
             "ST": "37"
           },
-          "tableHeading": "UPSSSC Advt No 01-Exam/2024 Various Post : Category Wise Vacancy Details"
+          "tableHeading": "UPSSSC Advt. No. 01-Exam/2024 Various Post : Category Wise Vacancy Details"
         }
       ],
       "textSections": [
@@ -18974,6 +19451,14 @@
         }
       ],
       "importantLinks": [
+        {
+          "label": "Answer Key Notice",
+          "url": "https://drive.google.com/file/d/1m-NpfwvfkSTdh7B-wMbcN-ib5gku4Oyc/view"
+        },
+        {
+          "label": "Download Answer Key Notice",
+          "url": "https://upsssc.gov.in/ViewPdf.aspx?o3zvZdcK2dQwmfnZQx07jiRfeUEF/gbivozqXZZS/SA="
+        },
         {
           "label": "Download Admit Card",
           "url": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=MAIN"
@@ -19033,17 +19518,17 @@
       },
       "meta": {
         "sourceUrl": "https://www.sarkariresult.com/upsssc/upsssc-pharmaceutical-01-2024/",
-        "scrapedAt": "2026-09-21T12:25:36",
-        "pageTitle": "UPSSSC Pharmacist Ayurvedic 2024 Admit Card 2026",
-        "detectedCategory": "SR_Admit_Card",
-        "categoryOverridden": false,
-        "publishedTime": "2026-09-16T17:03:43+05:30",
-        "modifiedTime": "2026-09-16T17:03:45+05:30",
+        "scrapedAt": "2026-09-23T12:21:15",
+        "pageTitle": "UPSSSC Pharmacist Ayurvedic 2024 Answer Key 2026",
+        "detectedCategory": "SR_Answer_Key",
+        "categoryOverridden": true,
+        "publishedTime": "2026-09-22T16:57:26+05:30",
+        "modifiedTime": "2026-09-22T16:57:29+05:30",
         "articleSection": "UPSSSC",
-        "homepageSerial": 16
+        "homepageSerial": 20
       },
-      "admitCardUrl": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=MAIN",
-      "_last_checked": "2026-09-21T06:55:36+00:00"
+      "answerKeyUrl": "https://drive.google.com/file/d/1m-NpfwvfkSTdh7B-wMbcN-ib5gku4Oyc/view",
+      "_last_checked": "2026-09-23T06:51:15+00:00"
     },
     {
       "category": "SR_Admit_Card",
@@ -51092,6 +51577,2301 @@
     },
     {
       "category": "UPCOMING_JOBS",
+      "title": "Haryana NMMS Scholarship Online Form 2026",
+      "slug": "haryana-nmms-scholarship-online-form-2026",
+      "_scraped_from": "",
+      "advt_no": "",
+      "department": "Haryana NMMS Scholarship",
+      "post_name": "",
+      "total_vacancy": "",
+      "last_date": "2026-10-24",
+      "application_start": "2026-09-24",
+      "exam_date": "2026-11-29",
+      "interview_date": "",
+      "result_date": "",
+      "admit_card_date": "Before Exam Date",
+      "age_limit": "",
+      "salary": "",
+      "qualification": "",
+      "selection_process": "",
+      "application_mode": "",
+      "fee_general": "",
+      "fee_obc": "",
+      "fee_sc_st": "",
+      "fee_female": "",
+      "fee_payment_mode": "",
+      "job_location": "",
+      "status": "active",
+      "important_links": {
+        "official_website": "https://scertharyana.gov.in/"
+      },
+      "vacancy_details": [],
+      "sections": [
+        {
+          "title": "Overview",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Haryana NMMS Scholarship 2026 : The State Council of Educational Research and Training (SCERT) Haryana has officially released the notification for the Haryana National Means-cum-Merit Scholarship Scheme (NMMSS) 2026-27 for Class 8 students.. Explore complete details regarding eligibility criteria, syllabus, exam pattern, and step-by-step application process to secure financial support for your secondary education."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "State Council of Educational Research and Training, Haryana National Means Cum Merit Scholarship Scheme 2026-27 Short Details of Scheme Advertisement Notification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Dates",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Starting Date : 24/09/2026 Last Date : 24/10/2026 11:59 PM Exam Date : 29/11/2026 Admit Card : Before Exam Date",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Fees",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "No Fees For All Candidates",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Eligibility Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "7th Class Passed With Min. 55% Marks, Candidate Should Be a Student of Class 8th, Family Annual Income Less than 3,50,000/",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Scholarship Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Scholarship Amount : Rs. 1,000 per month Scholarship Duration : Class 9th to Class 12th Total Scholarships : 2,337 (For Eligible Students) Total Scholarship Period : 4 years (Class 9th, 10th, 11th and 12th)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Documents",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Latest Photo & Signature Bank Account Copy & Aadhar Card Domicile & Caste Certificate Permanent Mobile Number & Mail ID Income Certificate (Under 3.50 Lakhs) Present 8th & Previous 7th Class Details Etc.",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Dates",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Starting Date : 24/09/2026",
+                "Last Date : 24/10/2026 11:59 PM",
+                "Exam Date : 29/11/2026",
+                "Admit Card : Before Exam Date"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application Fees",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "No Fees For All Candidates"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Eligibility Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "7th Class Passed With Min. 55% Marks",
+                "Candidate Should Be a Student of Class 8th",
+                "Family Annual Income Less than 3,50,000/"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Scholarship Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Scholarship Amount : Rs. 1,000 per month",
+                "Scholarship Duration : Class 9th to Class 12th",
+                "Total Scholarships : 2,337 (For Eligible Students)",
+                "Total Scholarship Period : 4 years (Class 9th, 10th, 11th and 12th)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Documents",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Latest Photo & Signature",
+                "Bank Account Copy & Aadhar Card",
+                "Domicile & Caste Certificate",
+                "Permanent Mobile Number & Mail ID",
+                "Income Certificate (Under 3.50 Lakhs)",
+                "Present 8th & Previous 7th Class Details Etc."
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Written Exam Pattern",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Negative Marking : No Exam Mode : OMR Based (MCQ Type)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Subject",
+                    "links": []
+                  },
+                  {
+                    "text": "Question",
+                    "links": []
+                  },
+                  {
+                    "text": "Marks",
+                    "links": []
+                  },
+                  {
+                    "text": "Duration",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Part-I : General Mental Ability Test",
+                    "links": []
+                  },
+                  {
+                    "text": "90",
+                    "links": []
+                  },
+                  {
+                    "text": "90",
+                    "links": []
+                  },
+                  {
+                    "text": "90 Mins",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Part-II : Scholastic Aptitude Test (Science : 35 Question, SS : 35 Question, Maths : 20 Question)",
+                    "links": []
+                  },
+                  {
+                    "text": "90",
+                    "links": []
+                  },
+                  {
+                    "text": "90",
+                    "links": []
+                  },
+                  {
+                    "text": "90 Mins",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Written Exam Pattern",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Negative Marking : No"
+            },
+            {
+              "type": "paragraph",
+              "text": "Exam Mode : OMR Based (MCQ Type)"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Important Related Links",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Source Title",
+                    "links": []
+                  },
+                  {
+                    "text": "Issue Date",
+                    "links": []
+                  },
+                  {
+                    "text": "Source Link",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Fill Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "24/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Download Prospectus",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Get Press Notice",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Official Website",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Visit Now",
+                    "links": [
+                      {
+                        "text": "Visit Now",
+                        "url": "https://scertharyana.gov.in/"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "extra_fields": {
+        "scholarship_amount": "Rs. 1,000",
+        "class_9th_to_class_12th_total_scholarships": "2,337 (F",
+        "or_eligible_students_total_scholarship_period": "4 years (Class 9th, 10th, 11th and 12th)",
+        "no_exam_mode": "OMR Based (MCQ Type)",
+        "scholarship_duration": "Class 9th to Class 12th",
+        "total_scholarships": "2,337 (For Eligible Students)",
+        "total_scholarship_period": "4 years (Class 9th, 10th, 11th and 12th)"
+      },
+      "sequence": 1,
+      "_last_checked": "2026-09-23T06:51:16+00:00"
+    },
+    {
+      "category": "UPCOMING_JOBS",
+      "title": "Delhi Maitreyi College Non-Teaching Form",
+      "slug": "delhi-maitreyi-college-non-teaching-form",
+      "_scraped_from": "",
+      "advt_no": "tification",
+      "department": "",
+      "post_name": "Non-Teaching Posts",
+      "total_vacancy": "52",
+      "last_date": "2026-10-09",
+      "application_start": "2026-09-26",
+      "exam_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "admit_card_date": "",
+      "age_limit": "Available Soon The Age Relaxation Extra as per Rules",
+      "salary": "",
+      "qualification": "Available Soon",
+      "selection_process": "Written Exam, Skill Test (If Applicable), Medical Examination, Document Verification",
+      "application_mode": "",
+      "fee_general": "",
+      "fee_obc": "",
+      "fee_sc_st": "",
+      "fee_female": "",
+      "fee_payment_mode": "Online Mode",
+      "job_location": "",
+      "status": "active",
+      "important_links": {
+        "official_website": "https://www.maitreyi.ac.in/"
+      },
+      "vacancy_details": [
+        {
+          "form_mode": "Online Form",
+          "job_state": "New Delhi",
+          "total_posts": "52 Posts",
+          "job_type": "Permanent"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Delhi Maitreyi College Non-Teaching Vacancy 2026 : Get complete details about Delhi Maitreyi College Non-Teaching Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Form Mode",
+                    "links": []
+                  },
+                  {
+                    "text": "Job State",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Job Type",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "New Delhi",
+                    "links": []
+                  },
+                  {
+                    "text": "52 Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Permanent",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Maitreyi College (University of Delhi), New Delhi Non-Teaching Posts Recruitment 2026 Short Details of Advt Notification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Dates",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Starting Date : 26/09/2026 Last Date : 09/10/2026 11:59 PM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Fees",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Gen / OBC / EWS : Available Soon SC / ST / All Females : Available Soon Payment Mode : Online Mode",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit : Available Soon Age Limit as on : Available Soon The Age Relaxation Extra as per Rules.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Selection Process",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Written Exam Skill Test (If Applicable) Medical Examination Document Verification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Pay Scale Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Administrative Officer : Level-10 Senior Assistant : Level-06 Junior Assistant : Level-02 Library Attendant : Level-01 Laboratory Assistant : Level-04 Laboratory Attendant : Level-01",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Dates",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Starting Date : 26/09/2026",
+                "Last Date : 09/10/2026 11:59 PM"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application Fees",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Gen / OBC / EWS : Available Soon",
+                "SC / ST / All Females : Available Soon",
+                "Payment Mode : Online Mode"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age Limit Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Age Limit : Available Soon",
+                "Age Limit as on : Available Soon",
+                "The Age Relaxation Extra as per Rules."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selection Process",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Written Exam",
+                "Skill Test (If Applicable)",
+                "Medical Examination",
+                "Document Verification"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pay Scale Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Administrative Officer : Level-10",
+                "Senior Assistant : Level-06",
+                "Junior Assistant : Level-02",
+                "Library Attendant : Level-01",
+                "Laboratory Assistant : Level-04",
+                "Laboratory Attendant : Level-01"
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Total Post & Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Post",
+                    "links": []
+                  },
+                  {
+                    "text": "Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Non-Teaching Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "52",
+                    "links": []
+                  },
+                  {
+                    "text": "Available Soon",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total Post & Qualification",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Post Wise Vacancies",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total",
+                    "links": []
+                  },
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Administrative Officer",
+                    "links": []
+                  },
+                  {
+                    "text": "01",
+                    "links": []
+                  },
+                  {
+                    "text": "Senior Assistant",
+                    "links": []
+                  },
+                  {
+                    "text": "01",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Junior Assistant",
+                    "links": []
+                  },
+                  {
+                    "text": "06",
+                    "links": []
+                  },
+                  {
+                    "text": "Library Attendant",
+                    "links": []
+                  },
+                  {
+                    "text": "11",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Laboratory Assistant (Botany)",
+                    "links": []
+                  },
+                  {
+                    "text": "03",
+                    "links": []
+                  },
+                  {
+                    "text": "Laboratory Assistant (Chemistry)",
+                    "links": []
+                  },
+                  {
+                    "text": "03",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Laboratory Assistant (Physics)",
+                    "links": []
+                  },
+                  {
+                    "text": "01",
+                    "links": []
+                  },
+                  {
+                    "text": "Laboratory Assistant (Zoology)",
+                    "links": []
+                  },
+                  {
+                    "text": "02",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Laboratory Attendant (Botany)",
+                    "links": []
+                  },
+                  {
+                    "text": "06",
+                    "links": []
+                  },
+                  {
+                    "text": "Laboratory Attendant (Chemistry)",
+                    "links": []
+                  },
+                  {
+                    "text": "08",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Laboratory Attendant (Physics)",
+                    "links": []
+                  },
+                  {
+                    "text": "06",
+                    "links": []
+                  },
+                  {
+                    "text": "Laboratory Attendant (Zoology)",
+                    "links": []
+                  },
+                  {
+                    "text": "04",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post Wise Vacancies",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Important Related Links",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Source Title",
+                    "links": []
+                  },
+                  {
+                    "text": "Issue Date",
+                    "links": []
+                  },
+                  {
+                    "text": "Source Link",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Fill Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "26/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Full Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "26/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Short Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Official Website",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Visit Now",
+                    "links": [
+                      {
+                        "text": "Visit Now",
+                        "url": "https://www.maitreyi.ac.in/"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "extra_fields": {
+        "level_04_laboratory_attendant": "Level-01",
+        "gen_obc_ews": "Available Soon",
+        "sc_st_all_females": "Available Soon",
+        "administrative_officer": "Level-10",
+        "senior_assistant": "Level-06",
+        "junior_assistant": "Level-02",
+        "library_attendant": "Level-01",
+        "laboratory_assistant": "Level-04",
+        "laboratory_attendant": "Level-01"
+      },
+      "sequence": 2,
+      "_last_checked": "2026-09-23T06:51:17+00:00"
+    },
+    {
+      "category": "UPCOMING_JOBS",
+      "title": "Delhi PCI Assistant Section Officer Offline Form",
+      "slug": "delhi-pci-assistant-section-officer-offline-form",
+      "_scraped_from": "",
+      "advt_no": "",
+      "department": "",
+      "post_name": "Assistant Section Officer (ASO)",
+      "total_vacancy": "03",
+      "last_date": "2026-10-26",
+      "application_start": "2026-09-26",
+      "exam_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "admit_card_date": "",
+      "age_limit": "20-30",
+      "salary": "Level-06 (Pre-revised PB-2 Rs. 9,300-34,800 + G.P. Rs. 4200/-)",
+      "qualification": "Any Graduation Degree, Typing (English : 30 wpm / Hindi : 25 wpm)",
+      "selection_process": "Tier-I Objective Exam, Tier-II Descriptive Paper, Typing Test on Computer, Medical Examination, Document Verification",
+      "application_mode": "",
+      "fee_general": "",
+      "fee_obc": "",
+      "fee_sc_st": "",
+      "fee_female": "",
+      "fee_payment_mode": "Online / Offline",
+      "job_location": "",
+      "status": "active",
+      "important_links": {
+        "official_website": "https://www.presscouncil.nic.in/Openings.aspx"
+      },
+      "vacancy_details": [
+        {
+          "form_mode": "Offline Form",
+          "job_state": "New Delhi",
+          "total_posts": "03 Posts",
+          "job_type": "Avail. Soon"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Delhi PCI Assistant Section Officer Vacancy 2026 : Get complete details about Delhi PCI Assistant Section Officer Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Form Mode",
+                    "links": []
+                  },
+                  {
+                    "text": "Job State",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Job Type",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Offline Form",
+                    "links": []
+                  },
+                  {
+                    "text": "New Delhi",
+                    "links": []
+                  },
+                  {
+                    "text": "03 Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Avail. Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Press Council of India (PCI) Assistant Section Officer Recruitment 2026 Short Details of Advertisement Notification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Dates",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Starting Date : 26/09/2026 Last Date : 26/10/2026 05:00 PM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Fees (Tentative)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Gen / OBC / EWS : 100/- SC / ST / All Females : 0/- Payment Mode : Online / Offline",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit Details (Tentative)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit : 20-30 Years Age Limit as on : 26/10/2026 The Age Relaxation Extra as per Rules.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Selection Process (Tentative)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Tier-I Objective Exam Tier-II Descriptive Paper Typing Test on Computer Medical Examination Document Verification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Pay Scale Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Pay Scale : Level-06 (Pre-revised PB-2 Rs. 9,300-34,800 + G.P. Rs. 4200/-)",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Dates",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Starting Date : 26/09/2026",
+                "Last Date : 26/10/2026 05:00 PM"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application Fees (Tentative)",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Gen / OBC / EWS : 100/",
+                "SC / ST / All Females : 0/",
+                "Payment Mode : Online / Offline"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age Limit Details (Tentative)",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Age Limit : 20-30 Years",
+                "Age Limit as on : 26/10/2026",
+                "The Age Relaxation Extra as per Rules."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selection Process (Tentative)",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Tier-I Objective Exam",
+                "Tier-II Descriptive Paper",
+                "Typing Test on Computer",
+                "Medical Examination",
+                "Document Verification"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pay Scale Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Pay Scale : Level-06 (Pre-revised PB-2 Rs. 9,300-34,800 + G.P. Rs. 4200/-)"
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Total Post & Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Post",
+                    "links": []
+                  },
+                  {
+                    "text": "Eligibility (Tentative)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Assistant Section Officer (ASO)",
+                    "links": []
+                  },
+                  {
+                    "text": "03",
+                    "links": []
+                  },
+                  {
+                    "text": "Any Graduation Degree, Typing (English : 30 wpm / Hindi : 25 wpm)",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total Post & Qualification",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Send Application To",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Under Secretary (Administration), Room No. 346, Press Council of India, 3rd Floor, Soochna Bhawan, 8 CGO Complex, Lodhi Road, New Delhi-110003",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Send Application To",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Under Secretary (Administration), Room No. 346"
+            },
+            {
+              "type": "paragraph",
+              "text": "Press Council of India, 3rd Floor, Soochna Bhawan"
+            },
+            {
+              "type": "paragraph",
+              "text": "8 CGO Complex, Lodhi Road, New Delhi-110003"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Important Related Links",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Source Title",
+                    "links": []
+                  },
+                  {
+                    "text": "Issue Date",
+                    "links": []
+                  },
+                  {
+                    "text": "Source Link",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Form",
+                    "links": []
+                  },
+                  {
+                    "text": "26/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Full Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "26/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Short Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Old Vacancy 2024 Notice",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Official Website",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Visit Now",
+                    "links": [
+                      {
+                        "text": "Visit Now",
+                        "url": "https://www.presscouncil.nic.in/Openings.aspx"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "extra_fields": {
+        "gen_obc_ews": "100/",
+        "sc_st_all_females": "0/"
+      },
+      "sequence": 3,
+      "_last_checked": "2026-09-23T06:51:17+00:00"
+    },
+    {
+      "category": "UPCOMING_JOBS",
+      "title": "CRPF 521 Constable, HC (Sports) Online Form",
+      "slug": "crpf-521-constable-hc-sports-online-form",
+      "_scraped_from": "",
+      "advt_no": "",
+      "department": "CRPF",
+      "post_name": "Constable (GD)",
+      "total_vacancy": "521",
+      "last_date": "2026-11-11",
+      "application_start": "2026-09-22",
+      "exam_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "admit_card_date": "",
+      "age_limit": "18-23",
+      "salary": "",
+      "qualification": "10th Passed, Sports Certificate.",
+      "selection_process": "Document Verification, Physical Standard Test, Sports Trial Test, Medical Examination",
+      "application_mode": "",
+      "fee_general": "",
+      "fee_obc": "",
+      "fee_sc_st": "",
+      "fee_female": "",
+      "fee_payment_mode": "Online Mode",
+      "job_location": "",
+      "status": "active",
+      "important_links": {
+        "official_website": "https://rect.crpf.gov.in/"
+      },
+      "vacancy_details": [
+        {
+          "form_mode": "Online Form",
+          "job_state": "All India",
+          "total_posts": "521 Posts",
+          "job_type": "Read Notice"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "CRPF Sports Quota Recruitment 2026 : Get complete details about CRPF Constable, HC (Sports) Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Form Mode",
+                    "links": []
+                  },
+                  {
+                    "text": "Job State",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Job Type",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "All India",
+                    "links": []
+                  },
+                  {
+                    "text": "521 Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Read Notice",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Central Reserve Police Force (CRPF) Constable & Head Constable Vacancy 2026 Short Details of Advertisement Notification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Dates",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Notification Out : 22/09/2026 Starting Date : 12/10/2026 Last Date : 11/11/2026 11:59 PM Correction Date : 12-14 November 2026",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Fees",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Gen / OBC / EWS : 100/- SC / ST / ESM : 0/- (Nil) All Females : 0/- (Nil) Payment Mode : Online Mode",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit : 18-23 Years Age Limit as on : 01/08/2026 Born Between : 02/08/2003 To 01/08/2008 The Age Relaxation Extra as per Rules.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Selection Process",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Document Verification Physical Standard Test Sports Trial Test Medical Examination",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Pay Scale Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Constable (GD) : Level-03 (Rs. 21,700-69,100/-) Head Constable (GD) : Level-04 (Rs. 25,500-81,100/-)",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Dates",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Notification Out : 22/09/2026",
+                "Starting Date : 12/10/2026",
+                "Last Date : 11/11/2026 11:59 PM",
+                "Correction Date : 12-14 November 2026"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application Fees",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Gen / OBC / EWS : 100/",
+                "SC / ST / ESM : 0/- (Nil)",
+                "All Females : 0/- (Nil)",
+                "Payment Mode : Online Mode"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age Limit Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Age Limit : 18-23 Years",
+                "Age Limit as on : 01/08/2026",
+                "Born Between : 02/08/2003 To 01/08/2008",
+                "The Age Relaxation Extra as per Rules."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selection Process",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Document Verification",
+                "Physical Standard Test",
+                "Sports Trial Test",
+                "Medical Examination"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pay Scale Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Constable (GD) : Level-03 (Rs. 21,700-69,100/-)",
+                "Head Constable (GD) : Level-04 (Rs. 25,500-81,100/-)"
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Total Post & Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Post",
+                    "links": []
+                  },
+                  {
+                    "text": "Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Constable (GD)",
+                    "links": []
+                  },
+                  {
+                    "text": "339",
+                    "links": []
+                  },
+                  {
+                    "text": "10th Passed, Sports Certificate.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Head Constable (GD)",
+                    "links": []
+                  },
+                  {
+                    "text": "182",
+                    "links": []
+                  },
+                  {
+                    "text": "12th Passed, Sports Certificate.",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total Post & Qualification",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Gender Wise Vacancies",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total",
+                    "links": []
+                  },
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Constable (Male)",
+                    "links": []
+                  },
+                  {
+                    "text": "258",
+                    "links": []
+                  },
+                  {
+                    "text": "Constable (Female)",
+                    "links": []
+                  },
+                  {
+                    "text": "81",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Head Constable (Male)",
+                    "links": []
+                  },
+                  {
+                    "text": "150",
+                    "links": []
+                  },
+                  {
+                    "text": "Head Constable (Female)",
+                    "links": []
+                  },
+                  {
+                    "text": "32",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gender Wise Vacancies",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Physical Eligibility (PST)",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Type",
+                    "links": []
+                  },
+                  {
+                    "text": "Category",
+                    "links": []
+                  },
+                  {
+                    "text": "Male",
+                    "links": []
+                  },
+                  {
+                    "text": "Female",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Height",
+                    "links": []
+                  },
+                  {
+                    "text": "General / OBC / SC",
+                    "links": []
+                  },
+                  {
+                    "text": "170 CM",
+                    "links": []
+                  },
+                  {
+                    "text": "157 CM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "ST",
+                    "links": []
+                  },
+                  {
+                    "text": "162.5 CM",
+                    "links": []
+                  },
+                  {
+                    "text": "150 CM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Hill Area Candidates",
+                    "links": []
+                  },
+                  {
+                    "text": "165 CM",
+                    "links": []
+                  },
+                  {
+                    "text": "155 CM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Chest",
+                    "links": []
+                  },
+                  {
+                    "text": "General / OBC / SC",
+                    "links": []
+                  },
+                  {
+                    "text": "80-85 CM",
+                    "links": []
+                  },
+                  {
+                    "text": "Not Applicable",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "ST",
+                    "links": []
+                  },
+                  {
+                    "text": "76-81 CM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Hill Area Candidates",
+                    "links": []
+                  },
+                  {
+                    "text": "78-83 CM",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Weight",
+                    "links": []
+                  },
+                  {
+                    "text": "All Category",
+                    "links": []
+                  },
+                  {
+                    "text": "Proportionate to height and age",
+                    "links": []
+                  },
+                  {
+                    "text": "Proportionate to height and age",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Physical Eligibility (PST)",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Important Related Links",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Source Title",
+                    "links": []
+                  },
+                  {
+                    "text": "Issue Date",
+                    "links": []
+                  },
+                  {
+                    "text": "Source Link",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Fill Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "12/10/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Full Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Official Website",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Visit Now",
+                    "links": [
+                      {
+                        "text": "Visit Now",
+                        "url": "https://rect.crpf.gov.in/"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "extra_fields": {
+        "pm_correction_date": "12-14 November 2026",
+        "gen_obc_ews": "100/",
+        "sc_st_esm": "0/- (",
+        "nil_all_females": "0/- (",
+        "born_between": "02/08/2003 To 01/08/2008 The Age Relaxation Extra as per Rules",
+        "constable_gd": "Level-03 (Rs. 21,700-69,100/-)",
+        "head_constable_gd": "Level-04 (Rs. 25,500-81,100/-)",
+        "hill_area_candidates": "78-83 CM",
+        "correction_date": "12-14 November 2026",
+        "all_females": "0/- (Nil)"
+      },
+      "sequence": 4,
+      "_last_checked": "2026-09-23T06:51:18+00:00"
+    },
+    {
+      "category": "UPCOMING_JOBS",
+      "title": "BPSC 32388 School Teacher (TRE 4) Online Form",
+      "slug": "bpsc-32388-school-teacher-tre-4-online-form",
+      "_scraped_from": "",
+      "advt_no": "14/2026",
+      "department": "BPSC",
+      "post_name": "Form Mode",
+      "total_vacancy": "32388",
+      "last_date": "2026-10-26",
+      "application_start": "2026-09-25",
+      "exam_date": "Available Soon",
+      "interview_date": "",
+      "result_date": "",
+      "admit_card_date": "Available Soon",
+      "age_limit": "01/08/2026 Age Relaxation Extra as per Rules",
+      "salary": "",
+      "qualification": "Job Type",
+      "selection_process": "Prelims Written Exam, Mains Written Exam, Medical Examination, Document Verification",
+      "application_mode": "",
+      "fee_general": "",
+      "fee_obc": "",
+      "fee_sc_st": "",
+      "fee_female": "",
+      "fee_payment_mode": "Online Mode",
+      "job_location": "",
+      "status": "active",
+      "important_links": {
+        "official_website": "https://bpsc.bihar.gov.in/"
+      },
+      "vacancy_details": [
+        {
+          "form_mode": "Online Form",
+          "job_state": "Bihar",
+          "total_posts": "32388 Posts",
+          "job_type": "Permanent"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "BPSC School Teacher (TRE 4) Recruitment 2026 : Get complete details about BPSC School Teacher (TRE 4) Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Form Mode",
+                    "links": []
+                  },
+                  {
+                    "text": "Job State",
+                    "links": []
+                  },
+                  {
+                    "text": "Total Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Job Type",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "Bihar",
+                    "links": []
+                  },
+                  {
+                    "text": "32388 Posts",
+                    "links": []
+                  },
+                  {
+                    "text": "Permanent",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Bihar Public Service Commission (BPSC) Teacher Recruitment Examination (TRE-4) 2026 Advt No. : 14/2026 Short Details of Notification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Important Dates",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Starting Date : 25/09/2026 Last Date : 26/10/2026 11:59 PM Fees Last Date : 25/10/2026 Exam Date : Available Soon Admit Card : Available Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Application Fees",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "For All Candidates : 100/- Payment Mode : Online Mode",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Age Limit Details",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Primary / Middle Teacher : 18-37 Years Secondary Teacher : 21-37 Years Sr Secondary Teacher : 21-37 Years The Age Limit as on : 01/08/2026 Age Relaxation Extra as per Rules.",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Selection Process",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Prelims Written Exam Mains Written Exam Medical Examination Document Verification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Wise Qualification",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Primary School Teacher : 12th Passed, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-I Qualified. Middle School Teacher : Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified. Secondary Teacher : Graduate in Related Subject, B.Ed. / B.El.Ed, STET Paper-I Qualified. Senior Secondary Teacher : PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified. Read Notification For Post / Subject Wise Detailed Qualification.",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Important Dates",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Starting Date : 25/09/2026",
+                "Last Date : 26/10/2026 11:59 PM",
+                "Fees Last Date : 25/10/2026",
+                "Exam Date : Available Soon",
+                "Admit Card : Available Soon"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Application Fees",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "For All Candidates : 100/",
+                "Payment Mode : Online Mode"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age Limit Details",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Primary / Middle Teacher : 18-37 Years",
+                "Secondary Teacher : 21-37 Years",
+                "Sr Secondary Teacher : 21-37 Years",
+                "The Age Limit as on : 01/08/2026",
+                "Age Relaxation Extra as per Rules."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selection Process",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Prelims Written Exam",
+                "Mains Written Exam",
+                "Medical Examination",
+                "Document Verification"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post Wise Qualification",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Primary School Teacher : 12th Passed, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-I Qualified.",
+                "Middle School Teacher : Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified.",
+                "Secondary Teacher : Graduate in Related Subject, B.Ed. / B.El.Ed, STET Paper-I Qualified.",
+                "Senior Secondary Teacher : PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified.",
+                "Read Notification For Post / Subject Wise Detailed Qualification."
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Post Wise Vacancies",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total",
+                    "links": []
+                  },
+                  {
+                    "text": "Post Name",
+                    "links": []
+                  },
+                  {
+                    "text": "Total",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Primary Teacher (Class 1 to 5)",
+                    "links": []
+                  },
+                  {
+                    "text": "3847",
+                    "links": []
+                  },
+                  {
+                    "text": "Middle School Teacher (Class 6 to 8)",
+                    "links": []
+                  },
+                  {
+                    "text": "8563",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Secondary Teacher (Class 9 to 10)",
+                    "links": []
+                  },
+                  {
+                    "text": "3877",
+                    "links": []
+                  },
+                  {
+                    "text": "Senior Secondary Teacher (Class 11 to 12)",
+                    "links": []
+                  },
+                  {
+                    "text": "16101",
+                    "links": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post Wise Vacancies",
+          "content": [
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "text": "Important Related Links",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Source Title",
+                    "links": []
+                  },
+                  {
+                    "text": "Issue Date",
+                    "links": []
+                  },
+                  {
+                    "text": "Source Link",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Fill Online Form",
+                    "links": []
+                  },
+                  {
+                    "text": "25/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Coming Soon",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Apply Date Notice",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Revised Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "22/09/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Full Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "18/08/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Apply Date Notice",
+                    "links": []
+                  },
+                  {
+                    "text": "18/08/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Short Notification",
+                    "links": []
+                  },
+                  {
+                    "text": "29/07/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Download",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "Official Website",
+                    "links": []
+                  },
+                  {
+                    "text": "29/07/2026",
+                    "links": []
+                  },
+                  {
+                    "text": "Visit Now",
+                    "links": [
+                      {
+                        "text": "Visit Now",
+                        "url": "https://bpsc.bihar.gov.in/"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "extra_fields": {
+        "for_all_candidates": "100/",
+        "primary_middle_teacher": "18-37",
+        "years_secondary_teacher": "21-37",
+        "years_sr_secondary_teacher": "21-37",
+        "primary_school_teacher": "12th Passed, D.Ed / B.Ed / B.El.Ed with CTET /",
+        "btet_paper_i_qualified_middle_school_teacher": "Graduate, D.Ed / B.Ed / B.El.Ed with CTE",
+        "t_btet_paper_ii_qualified_secondary_teacher": "Graduate in Related Subject, B.Ed. / B.El.Ed, ST",
+        "et_paper_i_qualified_senior_secondary_teacher": "PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified. Read Notification For Post / Subject Wise Detailed Qualification",
+        "secondary_teacher": "21-37 Years",
+        "sr_secondary_teacher": "21-37 Years",
+        "middle_school_teacher": "Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified.",
+        "senior_secondary_teacher": "PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified."
+      },
+      "sequence": 5,
+      "_last_checked": "2026-09-23T06:51:19+00:00"
+    },
+    {
+      "category": "UPCOMING_JOBS",
       "title": "ITBP Head Constable (Education) Online Form",
       "slug": "itbp-head-constable-education-online-form",
       "_scraped_from": "",
@@ -51547,8 +54327,8 @@
         "pet_pst_date": "Available Soon",
         "all_females": "0/- (Nil)"
       },
-      "sequence": 1,
-      "_last_checked": "2026-09-22T11:33:05+00:00"
+      "sequence": 6,
+      "_last_checked": "2026-09-23T06:51:20+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -51971,8 +54751,8 @@
         "short_notice_out": "22/09/2026",
         "full_notification": "30/09/2026"
       },
-      "sequence": 2,
-      "_last_checked": "2026-09-22T11:33:05+00:00"
+      "sequence": 7,
+      "_last_checked": "2026-09-23T06:51:21+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -52531,8 +55311,8 @@
         "negative_marking": "1/3",
         "rd_time_duration": "90 Minutes"
       },
-      "sequence": 3,
-      "_last_checked": "2026-09-22T11:33:06+00:00"
+      "sequence": 8,
+      "_last_checked": "2026-09-23T06:51:21+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -52978,8 +55758,8 @@
         "chief_petty_officer": "Not Given",
         "born_between": "01/09/2001 To 28/02/2009"
       },
-      "sequence": 4,
-      "_last_checked": "2026-09-22T11:33:06+00:00"
+      "sequence": 9,
+      "_last_checked": "2026-09-23T06:51:22+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -53659,8 +56439,8 @@
         "warrant_officer_physiotherapist": "12th Passed and Minimum 2-year Diploma in Physiotherapy and Minimum 1-year work experience as Physiotherapist from a minimum 50-bedded recognized Hospital / Physiotherapy Centre.",
         "rifleman_mason": "10th Passed and Must qualify Trade Test and Self-certification/undertaking regarding 1 year work experience in trade."
       },
-      "sequence": 5,
-      "_last_checked": "2026-09-22T11:33:07+00:00"
+      "sequence": 10,
+      "_last_checked": "2026-09-23T06:51:23+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -54080,8 +56860,8 @@
         "head_constable_motor_mechanic_only_for_males": "12th Passed and ITI in Motor Mechanic with 03 Years Practical Experience OR 03 Years Diploma in Automobile Engineering",
         "pet_pst_date": "Available Soon"
       },
-      "sequence": 6,
-      "_last_checked": "2026-09-22T11:33:07+00:00"
+      "sequence": 11,
+      "_last_checked": "2026-09-23T06:51:24+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -54447,8 +57227,8 @@
         "s_400_will_be_refunded_and_other_candidates": "Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam",
         "pay_level": "Level-05 & 06 As Per 7th CPC"
       },
-      "sequence": 7,
-      "_last_checked": "2026-09-22T11:33:08+00:00"
+      "sequence": 12,
+      "_last_checked": "2026-09-23T06:51:24+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -54853,8 +57633,8 @@
         "ph_physical_handicap": "0/- (",
         "food_safety_officer_fso": "Bachelor’s Degree or Master’s Degree or Doctorate Degree in Food Technology / Dairy Technology / Biotechnology / Oil Technology OR Disciplines Deemed to be Covered Under “Agricultural Science” OR Veterinary Sciences / Bio-Chemistry / Microbiology / Chemistry / Medicine OR MBBS / BDS / BHMS / BUMS / BSMS / BAMS / Sowa Rigpa."
       },
-      "sequence": 8,
-      "_last_checked": "2026-09-22T11:33:12+00:00"
+      "sequence": 13,
+      "_last_checked": "2026-09-23T06:51:25+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -55316,8 +58096,8 @@
         "library_restorer": "FPL-2 (Rs. 19900-63200)",
         "store_keeper": "FPL-2 (Rs. 19900-63200)"
       },
-      "sequence": 9,
-      "_last_checked": "2026-09-22T11:33:13+00:00"
+      "sequence": 14,
+      "_last_checked": "2026-09-23T06:51:26+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -55765,8 +58545,8 @@
         "copa_assistant_sub_inspector_ministerial": "12th Passed and CPCT Passed (Hindi Typing) with Computer Diploma / Degree / COPA",
         "correction_date": "Upto 13/10/2026"
       },
-      "sequence": 10,
-      "_last_checked": "2026-09-22T11:33:14+00:00"
+      "sequence": 15,
+      "_last_checked": "2026-09-23T06:51:26+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -56351,8 +59131,8 @@
         "correction_date": "26-27 October 2026",
         "pet_pst_test_start": "From 19/11/2026 (Tentative)"
       },
-      "sequence": 11,
-      "_last_checked": "2026-09-22T11:33:15+00:00"
+      "sequence": 16,
+      "_last_checked": "2026-09-23T06:51:27+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -57004,1007 +59784,8 @@
       "extra_fields": {
         "for_all_candidates": "100/"
       },
-      "sequence": 12,
-      "_last_checked": "2026-09-22T11:33:22+00:00"
-    },
-    {
-      "category": "UPCOMING_JOBS",
-      "title": "MPESB 7500 Constable Vacancy Online Form",
-      "slug": "mpesb-7500-constable-vacancy-online-form",
-      "_scraped_from": "",
-      "advt_no": "",
-      "department": "MPESB",
-      "post_name": "Constable (General Duty)",
-      "total_vacancy": "7500",
-      "last_date": "2026-10-06",
-      "application_start": "2026-09-09",
-      "exam_date": "",
-      "interview_date": "",
-      "result_date": "",
-      "admit_card_date": "Available Soon",
-      "age_limit": "18-33",
-      "salary": "Rs. 19,500-62,000/",
-      "qualification": "10th Class Passed (8th Class Passed For ST Candidates)",
-      "selection_process": "Written Exam, PET and PST Test, Medical Examination, Document Verification",
-      "application_mode": "",
-      "fee_general": "",
-      "fee_obc": "",
-      "fee_sc_st": "",
-      "fee_female": "",
-      "fee_payment_mode": "Online Mode",
-      "job_location": "",
-      "status": "active",
-      "important_links": {
-        "official_website": "https://esb.mp.gov.in/e_default.html"
-      },
-      "vacancy_details": [
-        {
-          "form_mode": "Online Form",
-          "job_state": "Madhya Pra.",
-          "total_posts": "7500 Posts",
-          "job_type": "Permanent"
-        }
-      ],
-      "sections": [
-        {
-          "title": "Overview",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "MPESB Constable Recruitment 2026 : Get complete details about MPESB Constable Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Form Mode",
-                    "links": []
-                  },
-                  {
-                    "text": "Job State",
-                    "links": []
-                  },
-                  {
-                    "text": "Total Posts",
-                    "links": []
-                  },
-                  {
-                    "text": "Job Type",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Online Form",
-                    "links": []
-                  },
-                  {
-                    "text": "Madhya Pra.",
-                    "links": []
-                  },
-                  {
-                    "text": "7500 Posts",
-                    "links": []
-                  },
-                  {
-                    "text": "Permanent",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Madhya Pradesh Employees Selection Board (MPESB) Constable (General Duty) Recruitment 2026 Short Details of Advertisement Notification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Important Dates",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Notification Out : 09/09/2026 Starting Date : 22/09/2026 Last Date : 06/10/2026 11:59 PM Correction Date : Upto 11/10/2026 Exam Start : From 19/11/2026 Admit Card : Available Soon",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Application Fees",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Exam Fees (Direct Recruitment) :- UR Candidates : 500/ – SC / ST / OBC / EWS : 250/- Exam Fee (Departmental Recruitment) :- UR Candidates : 200/- SC / ST / OBC / EWS : 100/- Additional Charges :- Applying Through Kiosk : 60/- Applying Through a Registered Citizen User ID : 20/- Payment Mode : Online Mode",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Age Limit Details",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Age Limit : 18-33 Years Age Limit as on : 06/10/2026 The Age Relaxation Extra as per Rules.",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Selection Process",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Written Exam PET and PST Test Medical Examination Document Verification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Pay Scale Details",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Pay Scale : Rs. 19,500-62,000/",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Important Dates",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Notification Out : 09/09/2026",
-                "Starting Date : 22/09/2026",
-                "Last Date : 06/10/2026 11:59 PM",
-                "Correction Date : Upto 11/10/2026",
-                "Exam Start : From 19/11/2026",
-                "Admit Card : Available Soon"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Application Fees",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Exam Fees (Direct Recruitment)",
-                "UR Candidates : 500/",
-                "SC / ST / OBC / EWS : 250/",
-                "Exam Fee (Departmental Recruitment)",
-                "UR Candidates : 200/",
-                "SC / ST / OBC / EWS : 100/",
-                "Additional Charges",
-                "Applying Through Kiosk : 60/",
-                "Applying Through a Registered Citizen User ID : 20/",
-                "Payment Mode : Online Mode"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Age Limit Details",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Age Limit : 18-33 Years",
-                "Age Limit as on : 06/10/2026",
-                "The Age Relaxation Extra as per Rules."
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Selection Process",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Written Exam",
-                "PET and PST Test",
-                "Medical Examination",
-                "Document Verification"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pay Scale Details",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Pay Scale : Rs. 19,500-62,000/"
-              ]
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Total Post & Qualification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Post Name",
-                    "links": []
-                  },
-                  {
-                    "text": "Total Post",
-                    "links": []
-                  },
-                  {
-                    "text": "Qualification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Constable (General Duty)",
-                    "links": []
-                  },
-                  {
-                    "text": "6800",
-                    "links": []
-                  },
-                  {
-                    "text": "10th Class Passed (8th Class Passed For ST Candidates)",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Constable [GD Special Armed Force (Male Only)]",
-                    "links": []
-                  },
-                  {
-                    "text": "700",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Total Post & Qualification",
-          "content": [
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Physical Eligibility Details (PST)",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Category / Gender",
-                    "links": []
-                  },
-                  {
-                    "text": "Min. Height",
-                    "links": []
-                  },
-                  {
-                    "text": "Chest",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "UR / OBC / SC (Male) – Non-SAF",
-                    "links": []
-                  },
-                  {
-                    "text": "168 cm",
-                    "links": []
-                  },
-                  {
-                    "text": "81-86 cm",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "ST (Male) – Non-SAF",
-                    "links": []
-                  },
-                  {
-                    "text": "160 cm",
-                    "links": []
-                  },
-                  {
-                    "text": "76-81 cm",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "UR / OBC (Male) – SAF",
-                    "links": []
-                  },
-                  {
-                    "text": "168 cm",
-                    "links": []
-                  },
-                  {
-                    "text": "79-84 cm",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "ST / SC (Male) – SAF",
-                    "links": []
-                  },
-                  {
-                    "text": "165 cm",
-                    "links": []
-                  },
-                  {
-                    "text": "79-84 cm",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "All Category Females (Non-SAF)",
-                    "links": []
-                  },
-                  {
-                    "text": "155 cm",
-                    "links": []
-                  },
-                  {
-                    "text": "N/A",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Physical Eligibility Details (PST)",
-          "content": [
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Physical Eligibility Details (PET)",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Type",
-                    "links": []
-                  },
-                  {
-                    "text": "Max Marks",
-                    "links": []
-                  },
-                  {
-                    "text": "Male (For Max Marks)",
-                    "links": []
-                  },
-                  {
-                    "text": "Female (For Max Marks)",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "800m Run",
-                    "links": []
-                  },
-                  {
-                    "text": "40 Marks",
-                    "links": []
-                  },
-                  {
-                    "text": "Less than 124.2 seconds",
-                    "links": []
-                  },
-                  {
-                    "text": "Less than 176 seconds",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Long Jump",
-                    "links": []
-                  },
-                  {
-                    "text": "30 Marks",
-                    "links": []
-                  },
-                  {
-                    "text": "More than 5.57 meters",
-                    "links": []
-                  },
-                  {
-                    "text": "More than 4.36 meters",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Shot Put",
-                    "links": []
-                  },
-                  {
-                    "text": "30 Marks",
-                    "links": []
-                  },
-                  {
-                    "text": "More than 8.76 meters (7.26 kg)",
-                    "links": []
-                  },
-                  {
-                    "text": "More than 7.20 meters (4.00 kg)",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Physical Eligibility Details (PET)",
-          "content": [
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Important Related Links",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Source Title",
-                    "links": []
-                  },
-                  {
-                    "text": "Issue Date",
-                    "links": []
-                  },
-                  {
-                    "text": "Source Link",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Fill Online Form",
-                    "links": []
-                  },
-                  {
-                    "text": "22/09/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Coming Soon",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Full Notification",
-                    "links": []
-                  },
-                  {
-                    "text": "09/09/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Official Website",
-                    "links": []
-                  },
-                  {
-                    "text": "09/09/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Visit Now",
-                    "links": [
-                      {
-                        "text": "Visit Now",
-                        "url": "https://esb.mp.gov.in/e_default.html"
-                      }
-                    ]
-                  }
-                ]
-              ]
-            }
-          ]
-        }
-      ],
-      "extra_fields": {
-        "ur_candidates": "500/",
-        "sc_st_obc_ews": "250/",
-        "applying_through_kiosk": "60/",
-        "applying_through_a_registered_citizen_user_id": "20/",
-        "constable_gd_special_armed_force_male_only": "700",
-        "correction_date": "Upto 11/10/2026",
-        "exam_start": "From 19/11/2026"
-      },
-      "sequence": 13,
-      "_last_checked": "2026-09-22T11:33:23+00:00"
-    },
-    {
-      "category": "UPCOMING_JOBS",
-      "title": "BPSC 32388 School Teacher (TRE 4) Online Form",
-      "slug": "bpsc-32388-school-teacher-tre-4-online-form",
-      "_scraped_from": "",
-      "advt_no": "14/2026",
-      "department": "BPSC",
-      "post_name": "Form Mode",
-      "total_vacancy": "32388",
-      "last_date": "Available Soon",
-      "application_start": "2026-09-21",
-      "exam_date": "Available Soon",
-      "interview_date": "",
-      "result_date": "",
-      "admit_card_date": "Available Soon",
-      "age_limit": "01/08/2026 Age Relaxation Extra as per Rules",
-      "salary": "",
-      "qualification": "Job Type",
-      "selection_process": "Prelims Written Exam, Mains Written Exam, Medical Examination, Document Verification",
-      "application_mode": "",
-      "fee_general": "",
-      "fee_obc": "",
-      "fee_sc_st": "",
-      "fee_female": "",
-      "fee_payment_mode": "Online Mode",
-      "job_location": "",
-      "status": "active",
-      "important_links": {
-        "official_website": "https://bpsc.bihar.gov.in/"
-      },
-      "vacancy_details": [
-        {
-          "form_mode": "Online Form",
-          "job_state": "Bihar",
-          "total_posts": "32388 Posts",
-          "job_type": "Permanent"
-        }
-      ],
-      "sections": [
-        {
-          "title": "Overview",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "BPSC School Teacher (TRE 4) Recruitment 2026 : Get complete details about BPSC School Teacher (TRE 4) Recruitment 2026, including recruitment updates, total vacancies, important dates, application fees, eligibility criteria, age limit, selection process, salary, syllabus, exam pattern, admit card, answer key, result, and more."
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Form Mode",
-                    "links": []
-                  },
-                  {
-                    "text": "Job State",
-                    "links": []
-                  },
-                  {
-                    "text": "Total Posts",
-                    "links": []
-                  },
-                  {
-                    "text": "Job Type",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Online Form",
-                    "links": []
-                  },
-                  {
-                    "text": "Bihar",
-                    "links": []
-                  },
-                  {
-                    "text": "32388 Posts",
-                    "links": []
-                  },
-                  {
-                    "text": "Permanent",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Bihar Public Service Commission (BPSC) Teacher Recruitment Examination (TRE-4) 2026 Advt No. : 14/2026 Short Details of Notification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Important Dates",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Starting Date : 21/09/2026 (Delayed) Last Date : Available Soon 11:59 PM Fees Last Date : Available Soon Exam Date : Available Soon Admit Card : Available Soon",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Application Fees",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "For All Candidates : 100/- Payment Mode : Online Mode",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Age Limit Details",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Primary / Middle Teacher : 18-37 Years Secondary Teacher : 21-37 Years Sr Secondary Teacher : 21-37 Years The Age Limit as on : 01/08/2026 Age Relaxation Extra as per Rules.",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Selection Process",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Prelims Written Exam Mains Written Exam Medical Examination Document Verification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Post Wise Qualification",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Primary School Teacher : 12th Passed, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-I Qualified. Middle School Teacher : Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified. Secondary Teacher : Graduate in Related Subject, B.Ed. / B.El.Ed, STET Paper-I Qualified. Senior Secondary Teacher : PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified. Read Notification For Post / Subject Wise Detailed Qualification.",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Important Dates",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Starting Date : 21/09/2026 (Delayed)",
-                "Last Date : Available Soon 11:59 PM",
-                "Fees Last Date : Available Soon",
-                "Exam Date : Available Soon",
-                "Admit Card : Available Soon"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Application Fees",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "For All Candidates : 100/",
-                "Payment Mode : Online Mode"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Age Limit Details",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Primary / Middle Teacher : 18-37 Years",
-                "Secondary Teacher : 21-37 Years",
-                "Sr Secondary Teacher : 21-37 Years",
-                "The Age Limit as on : 01/08/2026",
-                "Age Relaxation Extra as per Rules."
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Selection Process",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Prelims Written Exam",
-                "Mains Written Exam",
-                "Medical Examination",
-                "Document Verification"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Post Wise Qualification",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Primary School Teacher : 12th Passed, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-I Qualified.",
-                "Middle School Teacher : Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified.",
-                "Secondary Teacher : Graduate in Related Subject, B.Ed. / B.El.Ed, STET Paper-I Qualified.",
-                "Senior Secondary Teacher : PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified.",
-                "Read Notification For Post / Subject Wise Detailed Qualification."
-              ]
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Post Wise Vacancies",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Post Name",
-                    "links": []
-                  },
-                  {
-                    "text": "Total",
-                    "links": []
-                  },
-                  {
-                    "text": "Post Name",
-                    "links": []
-                  },
-                  {
-                    "text": "Total",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Primary Teacher (Class 1 to 5)",
-                    "links": []
-                  },
-                  {
-                    "text": "3847",
-                    "links": []
-                  },
-                  {
-                    "text": "Middle School Teacher (Class 6 to 8)",
-                    "links": []
-                  },
-                  {
-                    "text": "8563",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Secondary Teacher (Class 9 to 10)",
-                    "links": []
-                  },
-                  {
-                    "text": "3877",
-                    "links": []
-                  },
-                  {
-                    "text": "Senior Secondary Teacher (Class 11 to 12)",
-                    "links": []
-                  },
-                  {
-                    "text": "16101",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Post Wise Vacancies",
-          "content": [
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Important Related Links",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Source Title",
-                    "links": []
-                  },
-                  {
-                    "text": "Issue Date",
-                    "links": []
-                  },
-                  {
-                    "text": "Source Link",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Fill Online Form",
-                    "links": []
-                  },
-                  {
-                    "text": "Soon",
-                    "links": []
-                  },
-                  {
-                    "text": "Coming Soon",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Apply Date Notice",
-                    "links": []
-                  },
-                  {
-                    "text": "01/09/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Postponed Notice",
-                    "links": []
-                  },
-                  {
-                    "text": "31/08/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Full Notification",
-                    "links": []
-                  },
-                  {
-                    "text": "18/08/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Apply Date Notice",
-                    "links": []
-                  },
-                  {
-                    "text": "18/08/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Short Notification",
-                    "links": []
-                  },
-                  {
-                    "text": "29/07/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Official Website",
-                    "links": []
-                  },
-                  {
-                    "text": "29/07/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Visit Now",
-                    "links": [
-                      {
-                        "text": "Visit Now",
-                        "url": "https://bpsc.bihar.gov.in/"
-                      }
-                    ]
-                  }
-                ]
-              ]
-            }
-          ]
-        }
-      ],
-      "extra_fields": {
-        "available_soon_11": "59",
-        "for_all_candidates": "100/",
-        "primary_middle_teacher": "18-37",
-        "years_secondary_teacher": "21-37",
-        "years_sr_secondary_teacher": "21-37",
-        "primary_school_teacher": "12th Passed, D.Ed / B.Ed / B.El.Ed with CTET /",
-        "btet_paper_i_qualified_middle_school_teacher": "Graduate, D.Ed / B.Ed / B.El.Ed with CTE",
-        "t_btet_paper_ii_qualified_secondary_teacher": "Graduate in Related Subject, B.Ed. / B.El.Ed, ST",
-        "et_paper_i_qualified_senior_secondary_teacher": "PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified. Read Notification For Post / Subject Wise Detailed Qualification",
-        "secondary_teacher": "21-37 Years",
-        "sr_secondary_teacher": "21-37 Years",
-        "middle_school_teacher": "Graduate, D.Ed / B.Ed / B.El.Ed with CTET / BTET Paper-II Qualified.",
-        "senior_secondary_teacher": "PG Degree in Related Subject, B.Ed. / B.El.ED, STET Paper-II Qualified."
-      },
-      "sequence": 14,
-      "_last_checked": "2026-09-22T11:33:24+00:00"
+      "sequence": 17,
+      "_last_checked": "2026-09-23T06:51:28+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -58452,8 +60233,8 @@
         "unreserved": "600/",
         "sc_st_ews": "500/"
       },
-      "sequence": 15,
-      "_last_checked": "2026-09-22T11:33:25+00:00"
+      "sequence": 18,
+      "_last_checked": "2026-09-23T06:51:29+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -59070,8 +60851,8 @@
         "for_sc_ph_of_haryana": "55% (82",
         "marks_for_other_candidates": "60% (90 Marks)"
       },
-      "sequence": 16,
-      "_last_checked": "2026-09-22T11:33:25+00:00"
+      "sequence": 19,
+      "_last_checked": "2026-09-23T06:51:30+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -59511,8 +61292,8 @@
         "stenographer": "Pay Grade (5200-20200) GP- 2400 (Rs 25500-81100)",
         "receptionist": "Pay Band (5200-20200) GP- 2800 (Rs 29200-92300)"
       },
-      "sequence": 17,
-      "_last_checked": "2026-09-22T11:33:26+00:00"
+      "sequence": 20,
+      "_last_checked": "2026-09-23T06:51:31+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -60320,8 +62101,8 @@
         "technician_iii": "10th Passed & ITI (Fitter/ Mechanic/ Electrician/ Welder etc.)",
         "commercial_supervisor": "Graduation in any discipline (1 post reserved for PwBD)"
       },
-      "sequence": 18,
-      "_last_checked": "2026-09-22T11:33:28+00:00"
+      "sequence": 21,
+      "_last_checked": "2026-09-23T06:51:32+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -60712,8 +62493,8 @@
         "gen_obc_ews": "Avail. Soon",
         "sc_st_ph": "Avail. Soon"
       },
-      "sequence": 20,
-      "_last_checked": "2026-09-22T11:33:30+00:00"
+      "sequence": 23,
+      "_last_checked": "2026-09-23T06:51:34+00:00"
     },
     {
       "category": "UPCOMING_JOBS",
@@ -61805,8 +63586,8 @@
       "extra_fields": {
         "helper": "351"
       },
-      "sequence": 21,
-      "_last_checked": "2026-09-22T11:33:31+00:00"
+      "sequence": 24,
+      "_last_checked": "2026-09-23T06:51:34+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -62161,307 +63942,7 @@
       ],
       "extra_fields": {},
       "sequence": 2,
-      "_last_checked": "2026-09-22T11:33:34+00:00"
-    },
-    {
-      "category": "ADMISSIONS",
-      "title": "IIM Common Admission Test (CAT) Online Form",
-      "slug": "iim-common-admission-test-cat-online-form",
-      "_scraped_from": "",
-      "advt_no": "",
-      "department": "IIM Common Admission Test (CAT)",
-      "post_name": "",
-      "total_vacancy": "",
-      "last_date": "2026-09-22",
-      "application_start": "2026-07-26",
-      "exam_date": "2026-11-29",
-      "interview_date": "",
-      "result_date": "",
-      "admit_card_date": "2026-11-04",
-      "age_limit": "No Age Limit",
-      "salary": "",
-      "qualification": "",
-      "selection_process": "",
-      "application_mode": "",
-      "fee_general": "",
-      "fee_obc": "",
-      "fee_sc_st": "1350",
-      "fee_female": "",
-      "fee_payment_mode": "Online Mode",
-      "job_location": "",
-      "course_name": "",
-      "admission_type": "",
-      "status": "active",
-      "important_links": {
-        "apply_online": "https://iimcat.ac.in/per/g06/pub/32842/ASM/WebPortal/1/index.html?32842@@1@@1"
-      },
-      "vacancy_details": [],
-      "sections": [
-        {
-          "title": "Overview",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "IIM Common Admission Test (CAT) 2026 : Get complete details about IIM Common Admission Test (CAT) 2026, including admission updates, important dates, application fees, eligibility criteria, age limit, selection process, syllabus, exam pattern, admit card, answer key, result, and more."
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Indian Institute of Management (IIMs) Common Admission Test (CAT) 2026 IIM CAT 2026 Short Details of Notice",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Important Dates",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Notification Out : 26/07/2026 Starting Date : 03/08/2026 Last Date : 22/09/2026 05:00 PM (Extended) Exam Date : 29/11/2026 Admit Card : 04/11/2026 Exam Result : 1st Week of January 2027 (Tentative)",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Application Fees",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Gen / OBC / EWS : 2700/- SC / ST : 1350/- PH (Divyang) : 1350/- Payment Mode : Online Mode",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Age Limit Details",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Age Limit : No Age Limit",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Admission Process",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Please note that each IIM is independent to mandate their own eligibility criteria (including academic cutoffs and relative weights) and follow different selection processes. Performance in the CAT 2026 examination is an important component for consideration in the selection process. IIMs may also use the previous academic performance of the candidates, relevant work experience and other similar inputs in short-listing of candidates at various stages of the selection process. For more information, refer to the admissions policies of individual IIMs on their respective websites.",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Qualification Details",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Appearing / Passed Bachelor Degree in Any Stream with (50% Marks), (SC / ST / PH Candidates : 45% Marks).",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Participating IIM’s",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Ahmedabad, Amritsar, Bangalore, Bodh Gaya, Calcutta, Guwahati, Indore, Jammu, Kashipur, Kozhikode, Lucknow, Mumbai, Nagpur, Raipur, Ranchi, Rohtak, Sambalpur, Shillong, Sirmaur, Tiruchirappalli, Udaipur, Visakhapatnam.",
-                    "links": []
-                  }
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Important Dates",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Notification Out : 26/07/2026",
-                "Starting Date : 03/08/2026",
-                "Last Date : 22/09/2026 05:00 PM (Extended)",
-                "Exam Date : 29/11/2026",
-                "Admit Card : 04/11/2026",
-                "Exam Result : 1st Week of January 2027 (Tentative)"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Application Fees",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Gen / OBC / EWS : 2700/",
-                "SC / ST : 1350/",
-                "PH (Divyang) : 1350/",
-                "Payment Mode : Online Mode"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Age Limit Details",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Age Limit : No Age Limit"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Admission Process",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Please note that each IIM is independent to mandate their own eligibility criteria (including academic cutoffs and relative weights) and follow different selection processes. Performance in the CAT 2026 examination is an important component for consideration in the selection process. IIMs may also use the previous academic performance of the candidates, relevant work experience and other similar inputs in short-listing of candidates at various stages of the selection process. For more information, refer to the admissions policies of individual IIMs on their respective websites."
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Qualification Details",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Appearing / Passed Bachelor Degree in Any Stream with (50% Marks), (SC / ST / PH Candidates : 45% Marks)."
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Participating IIM’s",
-          "content": [
-            {
-              "type": "list",
-              "items": [
-                "Ahmedabad, Amritsar, Bangalore, Bodh Gaya, Calcutta, Guwahati, Indore, Jammu, Kashipur, Kozhikode, Lucknow, Mumbai, Nagpur, Raipur, Ranchi, Rohtak, Sambalpur, Shillong, Sirmaur, Tiruchirappalli, Udaipur, Visakhapatnam."
-              ]
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  {
-                    "text": "Important Related Links",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Source Title",
-                    "links": []
-                  },
-                  {
-                    "text": "Issue Date",
-                    "links": []
-                  },
-                  {
-                    "text": "Source Link",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Fill Online Form",
-                    "links": []
-                  },
-                  {
-                    "text": "03/08/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Apply Now",
-                    "links": [
-                      {
-                        "text": "Apply Now",
-                        "url": "https://iimcat.ac.in/per/g06/pub/32842/ASM/WebPortal/1/index.html?32842@@1@@1"
-                      }
-                    ]
-                  }
-                ],
-                [
-                  {
-                    "text": "Full Notification",
-                    "links": []
-                  },
-                  {
-                    "text": "26/07/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Eligibility Notice",
-                    "links": []
-                  },
-                  {
-                    "text": "26/07/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Download",
-                    "links": []
-                  }
-                ],
-                [
-                  {
-                    "text": "Official Website",
-                    "links": []
-                  },
-                  {
-                    "text": "26/07/2026",
-                    "links": []
-                  },
-                  {
-                    "text": "Visit Now",
-                    "links": [
-                      {
-                        "text": "Visit Now",
-                        "url": "https://iimcat.ac.in/per/g06/pub/32842/ASM/WebPortal/1/index.html?32842@@1@@1"
-                      }
-                    ]
-                  }
-                ]
-              ]
-            }
-          ]
-        }
-      ],
-      "extra_fields": {
-        "exam_result": "1st Week of January 2027 (Tentative)",
-        "gen_obc_ews": "2700/",
-        "sc_st": "1350/"
-      },
-      "sequence": 3,
-      "_last_checked": "2026-09-22T11:33:35+00:00"
+      "_last_checked": "2026-09-23T06:51:37+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -62769,7 +64250,7 @@
         "iit_roorkee_zone": "Ambala, Dehradun, Ghaziabad, Haldwani, Jalandhar-Phagwara, Kangra, Meerut, Mohali-Chandigarh, Moradabad, NOIDA, Patiala, Roorkee, Shimla-Solan."
       },
       "sequence": 4,
-      "_last_checked": "2026-09-22T11:33:37+00:00"
+      "_last_checked": "2026-09-23T06:51:39+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -63059,7 +64540,7 @@
         "class_12th_additional_subject_fees": "400/"
       },
       "sequence": 6,
-      "_last_checked": "2026-09-22T11:33:40+00:00"
+      "_last_checked": "2026-09-23T06:51:41+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -63472,7 +64953,7 @@
         "stage_iii": "Medical Examination"
       },
       "sequence": 7,
-      "_last_checked": "2026-09-22T11:33:42+00:00"
+      "_last_checked": "2026-09-23T06:51:41+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -63836,7 +65317,7 @@
         "born_between": "01/05/2012 to 31/07/2014 (both dates inclusive)."
       },
       "sequence": 8,
-      "_last_checked": "2026-09-22T11:33:43+00:00"
+      "_last_checked": "2026-09-23T06:51:42+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -64230,7 +65711,7 @@
         "born_between": "01/06/2010 to 31/07/2012 (both dates inclusive)."
       },
       "sequence": 9,
-      "_last_checked": "2026-09-22T11:33:44+00:00"
+      "_last_checked": "2026-09-23T06:51:43+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -64511,7 +65992,7 @@
         "all_india_bar_examination_aibe_xxii": "Bachelor Degree in Law (LLB)"
       },
       "sequence": 10,
-      "_last_checked": "2026-09-22T11:33:45+00:00"
+      "_last_checked": "2026-09-23T06:51:44+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -65110,7 +66591,7 @@
         "rpnlup_prayagraj": "IIULER, Goa"
       },
       "sequence": 12,
-      "_last_checked": "2026-09-22T11:33:48+00:00"
+      "_last_checked": "2026-09-23T06:51:46+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -65914,7 +67395,7 @@
         "not_declared_11": "59 PM"
       },
       "sequence": 25,
-      "_last_checked": "2026-09-22T11:34:29+00:00"
+      "_last_checked": "2026-09-23T06:52:00+00:00"
     },
     {
       "category": "ADMISSIONS",
@@ -65950,7 +67431,7 @@
       "sections": [],
       "extra_fields": {},
       "sequence": 26,
-      "_last_checked": "2026-09-22T11:34:30+00:00"
+      "_last_checked": "2026-09-23T06:52:01+00:00"
     }
   ]
 }
