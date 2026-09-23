@@ -807,19 +807,11 @@ input[type=range]{width:100%;accent-color:var(--brand);height:4px;cursor:pointer
       <div style="font-size:.78rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:7px">Print Sheet</div>
       <div class="print-options">
         <div class="print-opt active" data-sheet="single" onclick="selectSheet(this)">Single</div>
-        <div class="print-opt" data-sheet="4on4" onclick="selectSheet(this)">4 Photos (2×2)</div>
-        <div class="print-opt" data-sheet="8on4" onclick="selectSheet(this)">8 Photos (2×4)</div>
         <div class="print-opt" data-sheet="a4" onclick="selectSheet(this)">A4 Full Sheet</div>
         <div class="print-opt" data-sheet="custom" onclick="selectSheet(this)">Custom Rows/Cols</div>
       </div>
       <div id="customGridBox" style="display:none;margin-top:10px;padding:11px 13px;background:var(--mist);border-radius:8px;border:1px solid var(--line)">
-        <div style="font-size:.72rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;margin-bottom:8px">Quick Pick</div>
-        <div class="print-options" id="customGridPresets">
-          <div class="print-opt active" data-rows="1" data-cols="6" onclick="setCustomGrid(1,6)">6 Photos — 1 Row</div>
-          <div class="print-opt" data-rows="2" data-cols="6" onclick="setCustomGrid(2,6)">12 Photos — 2 Rows</div>
-          <div class="print-opt" data-rows="6" data-cols="6" onclick="setCustomGrid(6,6)">36 Photos — 6 Rows</div>
-        </div>
-        <div style="font-size:.72rem;font-weight:700;color:var(--muted);margin:12px 0 6px">Or set your own:</div>
+        <div style="font-size:.72rem;font-weight:700;color:var(--muted);margin:0 0 6px">Set your own:</div>
         <div class="print-options" style="align-items:center;gap:8px">
           <span style="font-size:.76rem;font-weight:700;color:var(--muted)">Rows:</span>
           <input type="number" id="customRows" value="1" min="1" max="15" oninput="onCustomGridChange()" style="width:64px;padding:8px;border:1.5px solid var(--line);border-radius:8px;font-size:.86rem">
@@ -863,9 +855,6 @@ input[type=range]{width:100%;accent-color:var(--brand);height:4px;cursor:pointer
   </div>
   <div class="nav-btns">
     <button class="btn-back" onclick="goStep(2)"><i class="fa-solid fa-arrow-left"></i> Back</button>
-    <button class="btn-next" onclick="downloadPhoto('single')" style="background:var(--success)">
-      <i class="fa-solid fa-download"></i> Download
-    </button>
   </div>
   <div style="text-align:center;margin-top:10px">
     <button class="btn-back" style="border:none;background:none;font-size:.78rem;color:var(--muted);text-decoration:underline" onclick="location.reload()"><i class="fa-solid fa-rotate-right"></i> Naya Photo Shuru Karein</button>
@@ -2635,14 +2624,29 @@ function initZoomPinch(){
 // existing compositeBgColor() scale-to-(w,h) step downstream handles final
 // sizing exactly as before, so this only needs to run once per render.
 function getSourceWithErase(base){
-  if(!base||!S.eraseMaskCanvas)return base;
+  if(!base||!S.eraseMaskCanvas||!S.eraseMaskCanvas.width||!S.eraseMaskCanvas.height)return base;
   var w=base.width,h=base.height;
-  if(S.eraseMaskCanvas.width!==w||S.eraseMaskCanvas.height!==h)return base; // stale mask (new crop) -- ignore
   var out=document.createElement('canvas');
   out.width=w;out.height=h;
   var octx=out.getContext('2d');
   octx.drawImage(base,0,0);
-  var maskData=S.eraseMaskCanvas.getContext('2d').getImageData(0,0,w,h).data;
+  var maskSrc=S.eraseMaskCanvas;
+  var maskData;
+  if(maskSrc.width===w&&maskSrc.height===h){
+    maskData=maskSrc.getContext('2d').getImageData(0,0,w,h).data;
+  }else{
+    // Mask was built against S.croppedCanvas's native size, but `base` here
+    // can be S.removedBgCanvas, which is stored at the TARGET output size
+    // (see removeBg()) -- almost never the same as the crop's native size.
+    // Scale the mask onto a same-size canvas instead of bailing out, or
+    // every erase stroke silently vanished as soon as BG removal was on.
+    var scaled=document.createElement('canvas');
+    scaled.width=w;scaled.height=h;
+    var sctx=scaled.getContext('2d');
+    sctx.imageSmoothingEnabled=true;
+    sctx.drawImage(maskSrc,0,0,w,h);
+    maskData=sctx.getImageData(0,0,w,h).data;
+  }
   var imgData=octx.getImageData(0,0,w,h);
   var d=imgData.data;
   var anyErased=false;
@@ -2899,35 +2903,26 @@ function renderPrintSheet(){
     pc.width=pw;pc.height=phe;
     ctx.drawImage(ph,0,0);
     info='Single photo ('+pw+'×'+phe+'px)';
-  }else if(S.sheet==='4on4'){
-    var gap=20,cols=2,rows=2;
-    pc.width=cols*pw+gap*(cols+1);pc.height=rows*phe+gap*(rows+1);
-    ctx.fillStyle='#fff';ctx.fillRect(0,0,pc.width,pc.height);
-    for(var r=0;r<rows;r++)for(var c=0;c<cols;c++)ctx.drawImage(ph,gap+c*(pw+gap),gap+r*(phe+gap),pw,phe);
-    info='4 photos (2×2) — A4 print ready';
-  }else if(S.sheet==='8on4'){
-    var gap=14,cols=2,rows=4;
-    pc.width=cols*pw+gap*(cols+1);pc.height=rows*phe+gap*(rows+1);
-    ctx.fillStyle='#fff';ctx.fillRect(0,0,pc.width,pc.height);
-    for(var r=0;r<rows;r++)for(var c=0;c<cols;c++)ctx.drawImage(ph,gap+c*(pw+gap),gap+r*(phe+gap),pw,phe);
-    info='8 photos (2×4) — A4 print ready';
   }else if(S.sheet==='a4'){
-    // Tight, print-safe margin + gap so the sheet wastes as little paper as
-    // possible. Horizontally CENTERED (equal leftover space on left/right —
-    // an off-center grid there reads as "crooked/misaligned"), but anchored
-    // to the TOP vertically rather than centered — any leftover row space
-    // collects at the bottom instead of pushing the whole grid down into the
-    // middle of the page, which read as a big, confusing empty gap up top.
+    // Fixed 6×6 = 36 photos on the A4 sheet (not "however many fit" — the
+    // photo is scaled DOWN as much as needed, same as the custom-grid branch
+    // below, so all 36 always fit). Horizontally CENTERED (equal leftover
+    // space on left/right), anchored to the TOP vertically rather than
+    // centered — any leftover space collects at the bottom instead of
+    // pushing the whole grid down into the middle of the page.
     var A4W=2480,A4H=3508,minMargin=getSheetMarginPx(),gap=8;
     pc.width=A4W;pc.height=A4H;
     ctx.fillStyle='#fff';ctx.fillRect(0,0,A4W,A4H);
-    var cols=Math.max(1,Math.floor((A4W-2*minMargin+gap)/(pw+gap)));
-    var rows=Math.max(1,Math.floor((A4H-2*minMargin+gap)/(phe+gap)));
-    var usedW=cols*pw+(cols-1)*gap;
+    var cols=6,rows=6;
+    var availW=A4W-2*minMargin-(cols-1)*gap;
+    var availH=A4H-2*minMargin-(rows-1)*gap;
+    var scale=Math.min(1,availW/(cols*pw),availH/(rows*phe));
+    var cw=Math.max(1,Math.round(pw*scale)),ch=Math.max(1,Math.round(phe*scale));
+    var usedW=cols*cw+(cols-1)*gap;
     var marginX=Math.max(minMargin,Math.round((A4W-usedW)/2));
     var marginY=minMargin;
-    for(var r=0;r<rows;r++)for(var c=0;c<cols;c++)ctx.drawImage(ph,marginX+c*(pw+gap),marginY+r*(phe+gap),pw,phe);
-    info='A4 sheet — '+cols+'×'+rows+'='+(cols*rows)+' photos (max that fit)';
+    for(var r=0;r<rows;r++)for(var c=0;c<cols;c++)ctx.drawImage(ph,marginX+c*(cw+gap),marginY+r*(ch+gap),cw,ch);
+    info='A4 sheet — 6×6=36 photos';
   }else if(S.sheet==='custom'){
     // Exact rows×cols the user asked for (e.g. 5 photos, or 6×6=36) always
     // fits on the A4 page — the photo is scaled DOWN (never up) as much as
